@@ -1,0 +1,443 @@
+# Denominaciones de carreras del catálogo
+
+Fuente: `TOTAL.json`. Este listado contiene los títulos originales únicos,
+sin agrupar especialidades ni inventar equivalencias entre profesiones.
+No incluye instituciones ni modalidades. Es una instantánea del catálogo;
+no se actualiza automáticamente.
+
+## Uso para interpretar preguntas
+
+Usá estas denominaciones como referencia para traducir expresiones humanas
+a términos de búsqueda del catálogo. Por ejemplo, «quiero ser gerontólogo»
+puede buscar Gerontología: existen Licenciatura en Gerontología,
+Licenciatura en Gerontología Social y Tecnicatura Universitaria en Gerontología.
+No elijas un nivel o una especialidad que la persona no haya pedido.
+
+`carrera` admite tanto una denominación completa como un tema o una categoría
+amplia: Gerontología, Ingeniería, Profesorado, Arte, etc. Conservá el nombre
+completo si la persona pide una oferta específica. Las categorías amplias
+pueden abarcar varias denominaciones del listado.
+
+`tipo_titulo` representa exclusivamente el nivel educativo solicitado:
+Grado, Pregrado, Posgrado o Superior no universitario. Si no está indicado,
+queda en null; no se deduce automáticamente de una profesión deseada.
+
+El listado no es un diccionario de sinónimos ni demuestra equivalencias o
+habilitaciones profesionales. Gerontología no equivale a Geriatría. No fuerces
+una pregunta a una carrera distinta para conseguir resultados. Si una carrera
+no figura, conservá la intención solicitada; la búsqueda deberá informar si
+no encuentra ofertas en este catálogo.
+
+## Denominaciones originales
+
+409 denominaciones distintas en 574 ofertas.
+
+- Abogacía
+- Analista Programador
+- Analista Universitario en Gestión de Capital Humano
+- Analista Universitario en Sistemas
+- Ciclo de Profesorado Universitario para Profesionales
+- Comercialización y Dirección de Empresas (carrera corta)
+- Comunicación de Moda
+- Contador Público
+- Corredor Inmobiliario y Martillero Público
+- Crítico Universitario en Arte
+- Diseño de Ilustración
+- Diseño de Interiores
+- Diseño de Moda (Diseño Textil e Indumentaria)
+- Diseño Digital (Diseño de Imagen y Sonido)
+- Diseño Gráfico
+- Diseño Industrial
+- Escribanía
+- Escribanía (Notariado)
+- Guía de Turismo
+- Guía Universitario en Turismo
+- Ingeniería Electrónica
+- Ingeniería en Ciencia de Datos
+- Ingeniería en Informática
+- Ingeniería en Inteligencia Artificial
+- Ingeniería en Telecomunicaciones
+- Ingeniería Industrial
+- Licenciatura en Actividad Física y Deportes (Alto Rendimiento)
+- Licenciatura en Actividad Física y Deportes (Deporte y Turismo)
+- Licenciatura en Actividad Física y Deportes (Gestión Educativa Deportiva)
+- Licenciatura en Administración
+- Licenciatura en Administración Agraria
+- Licenciatura en Administración Agropecuaria
+- Licenciatura en Administración de Empresas
+- Licenciatura en Administración de Empresas Digitales
+- Licenciatura en Administración de Empresas y Bachelor in Business
+- Licenciatura en Administración de Negocios Digitales
+- Licenciatura en Administración de Recursos Humanos
+- Licenciatura en Administración de Sistemas y Empresas
+- Licenciatura en Administración Hotelera
+- Licenciatura en Administración Penitenciaria
+- Licenciatura en Administración Pública
+- Licenciatura en Animación y Arte Digital
+- Licenciatura en Arte
+- Licenciatura en Artes
+- Licenciatura en Artes Visuales (orientaciones en Dibujo, Pintura, Escultura, Grabado, Arte Impreso y Digitalización de Imágenes)
+- Licenciatura en Artes y Tecnologías
+- Licenciatura en Ciberseguridad
+- Licenciatura en Ciencia de Datos
+- Licenciatura en Ciencia Política
+- Licenciatura en Ciencias de la Comunicación
+- Licenciatura en Ciencias de la Educación
+- Licenciatura en Ciencias del Comportamiento
+- Licenciatura en Ciencias Políticas
+- Licenciatura en Ciencias Sociales y Humanidades
+- Licenciatura en Comercialización
+- Licenciatura en Comercialización: Marketing y Publicidad
+- Licenciatura en Comercio Exterior
+- Licenciatura en Comercio Internacional
+- Licenciatura en Comunicación
+- Licenciatura en Comunicación Audiovisual
+- Licenciatura en Comunicación Digital
+- Licenciatura en Comunicación Institucional
+- Licenciatura en Comunicación Política
+- Licenciatura en Comunicación Social
+- Licenciatura en Comunicación Transmedia
+- Licenciatura en Cooperativismo y Mutualismo
+- Licenciatura en Corretaje Inmobiliario
+- Licenciatura en Corretaje, Tasación y Administración de Consorcios
+- Licenciatura en Creación Sonora
+- Licenciatura en Criminología
+- Licenciatura en Criminología y Seguridad
+- Licenciatura en Desarrollo Local-Regional
+- Licenciatura en Dirección de Negocios
+- Licenciatura en Diseño
+- Licenciatura en Diseño Artístico Audiovisual
+- Licenciatura en Diseño de Indumentaria
+- Licenciatura en Diseño de Interiores
+- Licenciatura en Economía
+- Licenciatura en Educación
+- Licenciatura en Educación Especial
+- Licenciatura en Educación Física
+- Licenciatura en Educación Física y Deporte
+- Licenciatura en Educación Inicial
+- Licenciatura en Educación Inicial con orientación en Tecnologías Digitales
+- Licenciatura en Educación Intercultural
+- Licenciatura en Educación Primaria
+- Licenciatura en Educación Primaria con orientación en Tecnologías Digitales
+- Licenciatura en Educación Religiosa
+- Licenciatura en Educación Secundaria con orientación en Gestión Institucional
+- Licenciatura en Educación y Formación Técnica y Profesional con orientación en Gestión
+- Licenciatura en Enfermería (ciclo I y II)
+- Licenciatura en Enseñanza de Educación Tecnológica para el Nivel Secundario con foco en Ciencias de la Computación
+- Licenciatura en Enseñanza de la Lectura y la Escritura para la Educación Primaria
+- Licenciatura en Enseñanza de la Lengua y la Literatura
+- Licenciatura en Enseñanza de la Matemática para el Nivel Primario
+- Licenciatura en Enseñanza de la Matemática para la Educación Secundaria
+- Licenciatura en Enseñanza de las Ciencias
+- Licenciatura en Enseñanza de las Ciencias Naturales
+- Licenciatura en Enseñanza de las Ciencias Naturales para el Nivel Primario
+- Licenciatura en Enseñanza de las Ciencias Naturales para la Educación Primaria
+- Licenciatura en Enseñanza de las Ciencias Naturales y Educación Ambiental Integral para el Nivel Primario
+- Licenciatura en Enseñanza de las Ciencias Sociales
+- Licenciatura en Enseñanza de las Ciencias Sociales para el Nivel Primario
+- Licenciatura en Enseñanza de las Ciencias Sociales para la Educación Primaria
+- Licenciatura en Enseñanza de las Ciencias Sociales para la Educación Secundaria
+- Licenciatura en Enseñanza de Prácticas de Lectura y Escritura para la Educación Primaria
+- Licenciatura en Enseñanza del Idioma Inglés como Lengua Extranjera
+- Licenciatura en Enseñanza del Inglés
+- Licenciatura en Entrenamiento Deportivo
+- Licenciatura en Filosofía
+- Licenciatura en Finanzas
+- Licenciatura en Fonoaudiología
+- Licenciatura en Geografía
+- Licenciatura en Geomática
+- Licenciatura en Gerencia de Empresas
+- Licenciatura en Gerontología
+- Licenciatura en Gerontología Social
+- Licenciatura en Gestión Ambiental
+- Licenciatura en Gestión de Agroempresas
+- Licenciatura en Gestión de Capital Humano
+- Licenciatura en Gestión de Emergencias Extrahospitalarias
+- Licenciatura en Gestión de Instituciones Educativas
+- Licenciatura en Gestión de la Comunicación Estratégica
+- Licenciatura en Gestión de la Educación en Contextos de Encierro
+- Licenciatura en Gestión de la Educación Superior
+- Licenciatura en Gestión de la Seguridad
+- Licenciatura en Gestión de Políticas Públicas
+- Licenciatura en Gestión de Proyectos de Diseño y Comunicación
+- Licenciatura en Gestión de Recursos Humanos
+- Licenciatura en Gestión de Servicios de Salud
+- Licenciatura en Gestión de Tecnología de la Información
+- Licenciatura en Gestión del Comercio Internacional
+- Licenciatura en Gestión del Deporte
+- Licenciatura en Gestión del Talento Humano
+- Licenciatura en Gestión del Turismo
+- Licenciatura en Gestión Deportiva
+- Licenciatura en Gestión Educativa
+- Licenciatura en Gestión Eficiente de la Energía
+- Licenciatura en Gestión Hotelera
+- Licenciatura en Gestión Inmobiliaria
+- Licenciatura en Gestión Logística
+- Licenciatura en Gestión Pública
+- Licenciatura en Gestión Tecnológica de las Organizaciones
+- Licenciatura en Gestión Turística
+- Licenciatura en Gestión y Administración Penitenciaria
+- Licenciatura en Gestión y Desarrollo de Personas en las Organizaciones
+- Licenciatura en Gobernanza de Datos
+- Licenciatura en Higiene y Seguridad en el Trabajo
+- Licenciatura en Higiene y Seguridad Laboral
+- Licenciatura en Higiene, Seguridad y Medio Ambiente del Trabajo
+- Licenciatura en Historia
+- Licenciatura en Hotelería y Turismo
+- Licenciatura en Humanidades y Ciencias Sociales
+- Licenciatura en Informática
+- Licenciatura en Inglés
+- Licenciatura en Instrumentación Quirúrgica
+- Licenciatura en Inteligencia Artificial
+- Licenciatura en Lenguajes Expresivos
+- Licenciatura en Letras
+- Licenciatura en Logística
+- Licenciatura en Logística Integral
+- Licenciatura en Management de la Innovación y Startups
+- Licenciatura en Management: Economía y Finanzas
+- Licenciatura en Management: Inteligencia Artificial
+- Licenciatura en Management: Turismo y Hospitalidad
+- Licenciatura en Marketing
+- Licenciatura en Matemática
+- Licenciatura en Medios Digitales
+- Licenciatura en Museología y Repositorios Culturales y Naturales
+- Licenciatura en Música Autóctona, Clásica y Popular de América
+- Licenciatura en Negocios de Diseño y Comunicación
+- Licenciatura en Negocios Digitales
+- Licenciatura en Nutrición
+- Licenciatura en Obstetricia
+- Licenciatura en Operaciones y Logística
+- Licenciatura en Organización de la Producción
+- Licenciatura en Pedagogía de la Educación Religiosa
+- Licenciatura en Periodismo
+- Licenciatura en Periodismo Deportivo
+- Licenciatura en Periodismo y Nuevos Medios
+- Licenciatura en Políticas y Administración de la Cultura
+- Licenciatura en Producción Audiovisual
+- Licenciatura en Producción de Bioimágenes
+- Licenciatura en Producción de Simuladores y Videojuegos
+- Licenciatura en Protección Civil y Emergencias
+- Licenciatura en Psicología
+- Licenciatura en Psicomotricidad
+- Licenciatura en Psicopedagogía
+- Licenciatura en Publicidad
+- Licenciatura en Publicidad y Narrativas Digitales
+- Licenciatura en Recreación y Ocio Educativo
+- Licenciatura en Recursos Humanos
+- Licenciatura en Redes y Comunicación de Datos
+- Licenciatura en Relaciones Comerciales Internacionales
+- Licenciatura en Relaciones Internacionales
+- Licenciatura en Relaciones Internacionales y Ciencia Política
+- Licenciatura en Relaciones Públicas
+- Licenciatura en Relaciones Públicas e Institucionales
+- Licenciatura en Resolución de Conflictos y Mediación
+- Licenciatura en Seguridad
+- Licenciatura en Seguridad Alimentaria
+- Licenciatura en Seguridad Ciudadana
+- Licenciatura en Seguridad Pública
+- Licenciatura en Seguridad, Salud y Ambiente Laboral
+- Licenciatura en Sistemas de Información
+- Licenciatura en Sistemas de Información Geográfica
+- Licenciatura en Sociología
+- Licenciatura en Tecnología de Datos con orientación en Salud Digital
+- Licenciatura en Tecnología de la Información
+- Licenciatura en Tecnología Educativa
+- Licenciatura en Tecnologías Inclusivas en Educación
+- Licenciatura en Teoría y Crítica de la Música
+- Licenciatura en Trabajo Social
+- Licenciatura en Turismo
+- Licenciatura en Turismo y Hotelería
+- Licenciatura en Óptica y Contactología
+- Marketing de la Moda
+- Martillero Público, Corredor y Administrador de Consorcio
+- Martillero Público, Corredor y Administrador de Consorcios
+- Martillero y Corredor de Comercio
+- Martillero y Corredor Público
+- Martillero, Corredor Público y Corredor Inmobiliario
+- Notariado
+- Procuración
+- Procurador
+- Producción de Modas
+- Producción Musical
+- Producción y Diseño en Comunicación Audiovisual
+- Profesorado de Artes Visuales
+- Profesorado de Artes Visuales con Orientación en Dibujo
+- Profesorado de Artes Visuales con Orientación en Escultura
+- Profesorado de Artes Visuales con Orientación en Grabado
+- Profesorado de Artes Visuales con Orientación en Pintura
+- Profesorado de Artes Visuales en Educación Superior con Orientación en Escultura
+- Profesorado de Danza con Orientación en Danza Clásica
+- Profesorado de Danza con Orientación en Danza Contemporánea
+- Profesorado de Educación Especial con Orientación en Discapacidad Intelectual
+- Profesorado de Educación Inicial
+- Profesorado de Educación Primaria
+- Profesorado de Educación Secundaria en Biología
+- Profesorado de Educación Secundaria en Física
+- Profesorado de Educación Secundaria en Geografía
+- Profesorado de Educación Secundaria en Historia
+- Profesorado de Educación Secundaria en Lengua y Literatura
+- Profesorado de Educación Superior en Artes Visuales
+- Profesorado de Educación Superior en Artes Visuales con Orientación en Dibujo
+- Profesorado de Educación Superior en Artes Visuales con Orientación en Grabado
+- Profesorado de Educación Superior en Artes Visuales con Orientación en Pintura
+- Profesorado de Educación Superior en Danza con Orientación en Danza Clásica
+- Profesorado de Educación Superior en Danza con Orientación en Danza Contemporánea
+- Profesorado de Educación Superior en Historia
+- Profesorado de Enseñanza de Nivel Medio y Superior en Biología
+- Profesorado de Enseñanza de Nivel Medio y Superior en Química
+- Profesorado de Enseñanza Superior
+- Profesorado de Inglés
+- Profesorado en Ciencias de la Educación
+- Profesorado en Educación Inicial
+- Profesorado en Historia
+- Profesorado para Profesionales
+- Profesorado para Técnicos
+- Profesorado Universitario
+- Profesorado Universitario en Educación Inicial
+- Profesorado Universitario en Educación Primaria
+- Profesorado Universitario en Enseñanza Secundaria y Superior
+- Profesorado Universitario para Profesionales
+- Tasador, Martillero Público y Corredor
+- Tecnicatura en Administración (título intermedio)
+- Tecnicatura en Administración Bancaria (título intermedio)
+- Tecnicatura en Administración de la Cultura
+- Tecnicatura en Administración de la Educación Superior
+- Tecnicatura en Administración orientación PyME
+- Tecnicatura en Administración Tributaria
+- Tecnicatura en Administración y Gestión Tributaria
+- Tecnicatura en Administración y Gestión Universitaria (TAGU)
+- Tecnicatura en Análisis Político con Orientación en Derechos Humanos
+- Tecnicatura en Ciberseguridad
+- Tecnicatura en Comercialización (Marketing)
+- Tecnicatura en Comercio Internacional (Global Business)
+- Tecnicatura en Control Bromatológico
+- Tecnicatura en Dirección de Equipos de Ventas
+- Tecnicatura en Dirección de Orquestas y Coros Infantiles y Juveniles
+- Tecnicatura en Dirección de Protocolo, Organización de Eventos y Relaciones Públicas
+- Tecnicatura en Diseño y Programación de Videojuegos
+- Tecnicatura en Edición
+- Tecnicatura en Gestión Bancaria
+- Tecnicatura en Gestión Contable e Impositiva
+- Tecnicatura en Gestión Cultural y Economía de la Cultura
+- Tecnicatura en Gestión de Bancos, Empresas Financieras y de Seguros
+- Tecnicatura en Gestión de Empresas Agropecuarias
+- Tecnicatura en Gestión de Empresas Familiares
+- Tecnicatura en Gestión de la Industria Musical
+- Tecnicatura en Gestión de las Migraciones Internacionales
+- Tecnicatura en Gestión de Medios Comunitarios
+- Tecnicatura en Gestión de Políticas Públicas
+- Tecnicatura en Gestión de PyMES
+- Tecnicatura en Gestión de Sociedades Cooperativas
+- Tecnicatura en Gestión Logística
+- Tecnicatura en Gestión y Desarrollo de Personas en las Organizaciones
+- Tecnicatura en Higiene y Seguridad Alimentaria
+- Tecnicatura en Higiene y Seguridad en el Trabajo
+- Tecnicatura en Higiene y Seguridad Laboral
+- Tecnicatura en Informática Aplicada a la Gráfica y Animación Digital
+- Tecnicatura en Informática Aplicada al Diseño Multimedia y de Sitios Web
+- Tecnicatura en Intervención Socio Comunitaria
+- Tecnicatura en Investigación de la Escena del Crimen
+- Tecnicatura en Marketing
+- Tecnicatura en Martillero Público y Corredor Inmobiliario
+- Tecnicatura en Operaciones Mineras e Industriales
+- Tecnicatura en Política, Gestión y Comunicación
+- Tecnicatura en Producción Audiovisual
+- Tecnicatura en Programación de Sistemas
+- Tecnicatura en Protección Civil y Emergencias
+- Tecnicatura en Relaciones Comerciales Internacionales
+- Tecnicatura en Relaciones Laborales
+- Tecnicatura en Seguridad e Higiene
+- Tecnicatura en Sistemas de Información Geográfica
+- Tecnicatura en Turismo
+- Tecnicatura Superior en Acompañamiento Terapéutico
+- Tecnicatura Superior en Administración de Empresas
+- Tecnicatura Superior en Administración Pública
+- Tecnicatura Superior en Ciberseguridad
+- Tecnicatura Superior en Comunicación Social
+- Tecnicatura Superior en Desarrollo de Videojuegos
+- Tecnicatura Superior en Diseño de Indumentaria, Textil y Accesorios
+- Tecnicatura Superior en Gestión de Recursos Humanos
+- Tecnicatura Superior en Higiene y Seguridad con Orientación en Calidad y Medio Ambiente
+- Tecnicatura Superior en Operaciones, Infraestructura y Logística Ferroviaria
+- Tecnicatura Universitaria en Acompañamiento Terapéutico
+- Tecnicatura Universitaria en Administración
+- Tecnicatura Universitaria en Administración Agraria (título intermedio)
+- Tecnicatura Universitaria en Administración de Empresas
+- Tecnicatura Universitaria en Administración de Pequeñas y Medianas Empresas
+- Tecnicatura Universitaria en Administración y Gestión de Políticas Públicas
+- Tecnicatura Universitaria en Agencias de Viaje y Turismo
+- Tecnicatura Universitaria en Alimentación de Ganado Vacuno
+- Tecnicatura Universitaria en Animación Digital y Efectos Visuales
+- Tecnicatura Universitaria en Arreglos Musicales
+- Tecnicatura Universitaria en Ciencia de Datos
+- Tecnicatura Universitaria en Ciencias Empresariales
+- Tecnicatura Universitaria en Ciudades Inteligentes
+- Tecnicatura Universitaria en Comercio Electrónico y Marketing Digital
+- Tecnicatura Universitaria en Corrección de Textos Digitales
+- Tecnicatura Universitaria en Desarrollo de Software
+- Tecnicatura Universitaria en Desarrollo Web
+- Tecnicatura Universitaria en Desarrollo y Producción de Videojuegos
+- Tecnicatura Universitaria en Diseño Gráfico Digital
+- Tecnicatura Universitaria en Diseño y Animación Digital
+- Tecnicatura Universitaria en Gastronomía
+- Tecnicatura Universitaria en Gerontología
+- Tecnicatura Universitaria en Gestión Aeronáutica
+- Tecnicatura Universitaria en Gestión de Calidad
+- Tecnicatura Universitaria en Gestión de Medios Digitales
+- Tecnicatura Universitaria en Gestión de Moda
+- Tecnicatura Universitaria en Gestión de Recursos Turísticos
+- Tecnicatura Universitaria en Gestión de Servicios Turísticos y Hoteleros
+- Tecnicatura Universitaria en Gestión del Clima Laboral
+- Tecnicatura Universitaria en Gestión y Organización de Eventos
+- Tecnicatura Universitaria en Higiene y Seguridad en el Trabajo
+- Tecnicatura Universitaria en Hotelería
+- Tecnicatura Universitaria en Hotelería y Turismo
+- Tecnicatura Universitaria en Industria Textil
+- Tecnicatura Universitaria en Informática de Gestión
+- Tecnicatura Universitaria en Jardinería
+- Tecnicatura Universitaria en Logística
+- Tecnicatura Universitaria en Logística de Agronegocios
+- Tecnicatura Universitaria en Mantenimiento Industrial del Sector Automotriz
+- Tecnicatura Universitaria en Marketing y Publicidad Digital
+- Tecnicatura Universitaria en Negociación de Bienes
+- Tecnicatura Universitaria en Organización de Empresas Agropecuarias
+- Tecnicatura Universitaria en Organización Industrial
+- Tecnicatura Universitaria en Organización y Dirección de Eventos y Ceremonial
+- Tecnicatura Universitaria en Periodismo
+- Tecnicatura Universitaria en Periodismo Deportivo
+- Tecnicatura Universitaria en Producción Agraria
+- Tecnicatura Universitaria en Producción Musical
+- Tecnicatura Universitaria en Producción Primaria de Leche
+- Tecnicatura Universitaria en Programación
+- Tecnicatura Universitaria en Secretariado Ejecutivo
+- Tecnicatura Universitaria en Seguridad Ciudadana
+- Tecnicatura Universitaria en Seguridad e Higiene de la Industria Mecánico-Automotriz
+- Tecnicatura Universitaria en Seguridad e Higiene en el Trabajo
+- Tecnicatura Universitaria en Seguridad Informática
+- Tecnicatura Universitaria en Sistemas de Inteligencia Artificial
+- Tecnicatura Universitaria en Software Libre
+- Tecnicatura Universitaria en Tecnologías de la Información
+- Tecnicatura Universitaria en Telecomunicaciones
+- Tecnicatura Universitaria en Topografía
+- Tecnicatura Universitaria en Turismo
+- Tecnicatura Universitaria en Ventas
+- Técnico Superior en Cloud Administration
+- Técnico Superior en Customer Experience
+- Técnico Superior en Data Science
+- Técnico Superior en Gestión Contable
+- Técnico Superior en Gestión de la Empresa Agraria
+- Técnico Superior en Gestión Hotelera
+- Técnico Superior en Inbound Marketing
+- Técnico Superior en Marketing Digital
+- Técnico Superior en Periodismo y Nuevas Tecnologías
+- Técnico Superior en Planificación y Organización de Eventos
+- Técnico Superior en Programación
+- Técnico Superior en Quality Assurance
+- Técnico Superior en Redes Informáticas
+- Técnico Superior en Relaciones Laborales
+- Técnico Superior en Seguridad Informática
+- Técnico Superior en Seguros
+- Técnico Universitario en Contabilidad (título intermedio)
+- Técnico Universitario en Gobernanza de Datos
+- Técnico Universitario en Negocios Digitales
+- Técnico Universitario en Seguridad, Salud y Ambiente Laboral

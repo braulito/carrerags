@@ -1,0 +1,19 @@
+Desde esta carpeta, en PowerShell, con el entorno .pagina ya creado:
+
+.\.pagina\Scripts\python.exe -m pip install -r requirements.txt
+.\.pagina\Scripts\python.exe app.py
+
+Abrir http://127.0.0.1:8080/
+
+Si todavía no existe el entorno, crearlo antes con:
+python -m venv .pagina
+
+La aplicación toma URL_API de la configuración local al arrancar.
+Gunicorn se instala y ejecuta solamente en Docker.
+
+Para Docker, con la configuración preparada:
+docker compose up -d --build
+
+Ver README.md para los detalles y las verificaciones aisladas.
+
+bash install.sh

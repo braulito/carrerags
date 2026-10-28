@@ -1,0 +1,68 @@
+[
+  {
+    "original": {
+      "Título": "Licenciatura en Inglés",
+      "Lugar donde se cursa": "Universidad Nacional de Santiago del Estero (UNSE) — Santiago del Estero",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Complementación de estudios superiores afines en lengua inglesa.",
+      "Tipo de cursada": "A distancia en el ciclo completo (según oferta de complementación).",
+      "Pública/Privada": "Pública",
+      "URL": "https://fhu.unse.edu.ar/ingreso/complementacion_distancia.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Inglés",
+      "Lugar donde se cursa": "Universidad FASTA (UFASTA) — Mar del Plata, Buenos Aires",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación superior especializada en Inglés.",
+      "Tipo de cursada": "Online asincrónica (prácticas/exámenes según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.ufasta.edu.ar/estudiar-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Enseñanza del Idioma Inglés como Lengua Extranjera",
+      "Lugar donde se cursa": "Universidad Pedagógica Nacional (UNIPE) — CABA / Pilar, Buenos Aires",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas.",
+      "Tipo de cursada": "A distancia (presencialidad puntual por confirmar)",
+      "Pública/Privada": "Pública",
+      "URL": "https://unipe.edu.ar/index.php?Itemid=167&id=6&layout=category&option=com_k2&task=category&view=itemlist"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Inglés",
+      "Lugar donde se cursa": "Instituto de Educación Superior N.º 9-001 «General José de San Martín» — San Martín, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Instituto público y gratuito, lengua inglesa, didáctica y prácticas docentes. La preinscripción 2027 declara la modalidad combinada de las carreras. Incluye formación práctica.",
+      "Tipo de cursada": "Híbrida: modalidad combinada presencial y virtual (oferta ingreso 2027).",
+      "Pública/Privada": "Pública",
+      "URL": "https://ens9001-infd.mendoza.edu.ar/sitio/ingreso-pre-inscripcion/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Enseñanza del Inglés",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Inglés",
+      "Lugar donde se cursa": "Instituto Cultural de Mendoza (PT-153) — Mendoza Capital",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente de cuatro años con título de validez nacional. La ficha oficial publicada por Expo Educativa declara 70% presencial y 30% virtual.",
+      "Tipo de cursada": "Híbrida: 70% presencial y 30% virtual.",
+      "Pública/Privada": "Privada",
+      "URL": "https://expoeducativa.mendoza.edu.ar/carrera/752"
+    }
+  }
+]

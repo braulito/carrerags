@@ -1,0 +1,2 @@
+.ingestador\Scripts\activate.bat
+python run.py

@@ -1,0 +1,68 @@
+name: carrerags-embeddings
+services:
+  embeddings:
+    image: carrerags-embeddings:arm64
+    platform: linux/arm64
+    build:
+      context: .
+      platforms:
+        - linux/arm64
+    restart: unless-stopped
+    init: true
+    cpus: 4.0
+    mem_limit: 4g
+    mem_reservation: 2g
+    pids_limit: 128
+    read_only: true
+    tmpfs:
+      - /tmp:size=128m,mode=1777
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    networks:
+      - offline
+  gateway:
+    image: nginx:1.30.6-alpine
+    platform: linux/arm64
+    entrypoint: ["nginx", "-g", "daemon off;", "-c", "/etc/nginx/nginx.conf"]
+    user: "65534:65534"
+    ports:
+      - "8081:8081"
+    volumes:
+      - type: bind
+        source: ./nginx.conf
+        target: /etc/nginx/nginx.conf
+        read_only: true
+        bind:
+          create_host_path: false
+    depends_on:
+      embeddings:
+        condition: service_healthy
+    restart: unless-stopped
+    init: true
+    cpus: 0.5
+    mem_limit: 64m
+    pids_limit: 32
+    read_only: true
+    tmpfs:
+      - /tmp:size=16m,mode=1777
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    healthcheck:
+      test: ["CMD", "wget", "-q", "-O", "/dev/null", "http://127.0.0.1:8081/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    networks:
+      - entrada
+      - offline
+networks:
+  entrada:
+    driver: bridge
+  offline:
+    driver: bridge
+    internal: true

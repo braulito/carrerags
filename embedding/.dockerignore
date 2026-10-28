@@ -1,0 +1,14 @@
+# Lista permitida: ningún otro archivo del repositorio entra en el contexto.
+**
+!Dockerfile
+!requirements.txt
+!download_model.py
+!healthcheck.py
+!carrerags_embeddings/
+!carrerags_embeddings/*.py
+# Protección explícita adicional, también en carpetas anidadas.
+**/.env
+**/.env.*
+**/*.env
+**/__pycache__
+**/*.pyc

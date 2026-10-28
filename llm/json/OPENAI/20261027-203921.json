@@ -1,0 +1,36 @@
+{
+  "resultado": true,
+  "pregunta": "donde estudiar para ser abogado?",
+  "mensaje": "ok",
+  "salida": {
+    "carrera": "Abogacía",
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": null,
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 9582,
+      "salida": 1150,
+      "total": 10732,
+      "entrada_cache": 0,
+      "razonamiento": 230
+    },
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7890,
+        "salida": 67,
+        "total": 7957,
+        "entrada_cache": 0,
+        "razonamiento": 24
+      },
+      "respuesta_usuario": {
+        "entrada": 1692,
+        "salida": 1083,
+        "total": 2775,
+        "entrada_cache": 0,
+        "razonamiento": 206
+      }
+    },
+    "respuesta": "Podés estudiar **Abogacía** en estas ofertas de grado recuperadas para la consulta. Todas son de instituciones privadas:\n\n1. **Abogacía — Universidad de Morón (UM)**  \n   **Lugar:** Morón, Buenos Aires. **Nivel:** grado. **Modalidad:** a distancia.  \n   Ofrece formación jurídica, en procedimientos legales y/o en actividad notarial e inmobiliaria. Las prácticas y los exámenes presenciales están **por confirmar**.  \n   [Ver la oferta](https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia)\n\n2. **Abogacía — Universidad de Palermo (UP)**  \n   **Lugar:** CABA. **Nivel:** grado. **Modalidad:** online, con prácticas y evaluaciones según la carrera.  \n   Formación jurídica, en procedimientos legales y/o en actividad notarial e inmobiliaria.  \n   [Ver la oferta](https://www.palermo.edu/online/carreras.html)\n\n3. **Abogacía — Universidad de Ciencias Empresariales y Sociales (UCES)**  \n   **Lugar:** CABA. **Nivel:** grado. **Modalidad:** a distancia, con evaluaciones según la carrera.  \n   Formación jurídica, en procedimientos legales y/o en actividad notarial e inmobiliaria. La oferta figura en un informe de autoevaluación institucional de 2026; **consultá si la inscripción está vigente**.  \n   [Ver la oferta](https://w.uces.edu.ar/wp-content/uploads/2026/04/PDF_INFORME_EJECUTIVO_AUTOEVALUACION_INSTITUCIONAL_29.04_002.pdf)\n\n4. **Abogacía — Universidad Siglo 21**  \n   **Lugar:** Córdoba, Córdoba; cuenta con CAU en Argentina. **Nivel:** grado. **Modalidad:** a distancia con instancias presenciales o híbrida.  \n   Formación jurídica, en procedimientos legales y/o en actividad notarial e inmobiliaria. En Educación Distribuida Home hay que concurrir al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.  \n   [Ver la oferta](https://21.edu.ar/carreras-y-programas/distancia)\n\n5. **Abogacía — Universidad Argentina de la Empresa (UADE)**  \n   **Lugar:** CABA. **Nivel:** grado. **Modalidad:** online; prácticas y exámenes según el plan.  \n   Formación jurídica, en procedimientos legales y/o en actividad notarial e inmobiliaria. La institución publicita la modalidad online; consultá las prácticas y los requisitos de presencia.  \n   [Ver la oferta](https://www.uade.edu.ar/sites/uade-online/)\n\n6. **Abogacía — Universidad Católica de Salta (UCASAL)**  \n   **Lugar:** Salta, Salta. **Nivel:** grado. **Modalidad:** a distancia/digital; la universidad distingue ofertas online y otras con evaluaciones según el programa.  \n   La descripción indica que algunas modalidades son 100 % online, pero no permite confirmar si eso corresponde específicamente a Abogacía.  \n   [Ver la oferta](https://www.ucasal.edu.ar/menu-oferta-educativa-por-modalidad/a-distancia)\n\n7. **Abogacía — Universidad FASTA (UFASTA)**  \n   **Lugar:** Mar del Plata, Buenos Aires. **Nivel:** grado. **Modalidad:** online asincrónica; prácticas y exámenes según la carrera.  \n   Formación jurídica, en procedimientos legales y/o en actividad notarial e inmobiliaria.  \n   [Ver la oferta](https://www.ufasta.edu.ar/estudiar-online/)\n\n8. **Abogacía — Universidad Blas Pascal (UBP)**  \n   **Lugar:** Córdoba, Córdoba. **Nivel:** grado. **Modalidad:** online, con instancias presenciales **por confirmar**.  \n   Formación jurídica, en procedimientos legales y/o en actividad notarial e inmobiliaria.  \n   [Ver la oferta](https://landing.ubp.edu.ar/grado-y-pregrado-online/)\n\nLas condiciones de presencialidad varían según la oferta y, en algunos casos, requieren confirmación."
+  }
+}

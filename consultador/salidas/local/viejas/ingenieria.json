@@ -1,0 +1,68 @@
+[
+  {
+    "original": {
+      "Título": "Ingeniería Industrial",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Formación superior especializada en Industrial.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ingeniería Electrónica",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Formación superior especializada en Electrónica.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ingeniería en Informática",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ingeniería en Telecomunicaciones",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Diseño, gestión y soporte de redes, telecomunicaciones e infraestructura digital.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ingeniería en Inteligencia Artificial",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Formación en sistemas inteligentes, automatización y aplicaciones de IA.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ingeniería en Ciencia de Datos",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Análisis de datos, estadística y herramientas computacionales aplicadas a decisiones.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  }
+]

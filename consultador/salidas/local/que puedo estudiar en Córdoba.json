@@ -1,0 +1,904 @@
+[
+  {
+    "original": {
+      "Título": "Licenciatura en Turismo",
+      "Lugar donde se cursa": "Universidad Nacional de Villa María (UNVM) — Villa María, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Complementación para titulados superiores de áreas afines al turismo.",
+      "Tipo de cursada": "A distancia (cursada de la carrera/CCC, confirmada en página de inscripción a ciclos de complementación).",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unvm.edu.ar/inscripciones-ccc/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Desarrollo Local-Regional",
+      "Lugar donde se cursa": "Universidad Nacional de Villa María (UNVM) — Villa María, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Planificación territorial, proyectos y políticas de desarrollo local y regional.",
+      "Tipo de cursada": "A distancia para la carrera completa (oferta/cohorte vigente por consultar).",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unvm.edu.ar/inscripciones/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado Universitario para Profesionales",
+      "Lugar donde se cursa": "Universidad Nacional de Villa María (UNVM) — Villa María, Córdoba",
+      "Nivel": "Grado (ciclo para profesionales)",
+      "Descripción": "Formación pedagógica de profesionales que cuentan con título superior previo.",
+      "Tipo de cursada": "A distancia (cursada de la carrera/CCC, confirmada en página de inscripción a ciclos de complementación).",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unvm.edu.ar/inscripciones-ccc/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Ciencias de la Educación",
+      "Lugar donde se cursa": "Universidad Nacional de Villa María (UNVM) — Villa María, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Formación en políticas educativas, pedagogía e investigación, requiere titulación previa.",
+      "Tipo de cursada": "A distancia (cursada de la carrera/CCC, confirmada en página de inscripción a ciclos de complementación).",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unvm.edu.ar/inscripciones-ccc/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Psicopedagogía",
+      "Lugar donde se cursa": "Universidad Nacional de Villa María (UNVM) — Villa María, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Completar titulación en psicopedagogía desde estudios superiores previos.",
+      "Tipo de cursada": "A distancia (cursada de la carrera/CCC, confirmada en página de inscripción a ciclos de complementación).",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unvm.edu.ar/inscripciones-ccc/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión Educativa",
+      "Lugar donde se cursa": "Universidad Nacional de Villa María (UNVM) — Villa María, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Gestión institucional, planificación educativa y políticas de enseñanza para titulados previos.",
+      "Tipo de cursada": "A distancia (cursada de la carrera/CCC, confirmada en página de inscripción a ciclos de complementación).",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unvm.edu.ar/inscripciones-ccc/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Educación Física",
+      "Lugar donde se cursa": "Universidad Nacional de Villa María (UNVM) — Villa María, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ampliación universitaria de estudios superiores previos en Educación Física.",
+      "Tipo de cursada": "A distancia (cursada de la carrera/CCC, confirmada en página de inscripción a ciclos de complementación).",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unvm.edu.ar/inscripciones-ccc/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Turismo",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Planificación, operación y gestión de servicios turísticos, hoteleros o gastronómicos.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión de la Seguridad",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Análisis, planificación y gestión en el ámbito de la seguridad, las políticas públicas o la prevención.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Seguridad",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Análisis, planificación y gestión en el ámbito de la seguridad, las políticas públicas o la prevención.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Comercio Internacional",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Operaciones comerciales internacionales, negociación, importación y exportación.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Publicidad",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Estrategia comercial, comunicación, marketing, relaciones públicas y gestión de clientes.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Comercialización",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Estrategia comercial, comunicación, marketing, relaciones públicas y gestión de clientes. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Inteligencia Artificial",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Formación en sistemas inteligentes, automatización y aplicaciones de IA.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión y Administración Penitenciaria",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Gestión de organizaciones, procesos, personas y recursos empresariales o públicos.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Notariado",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Investigación de la Escena del Crimen",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Formación superior especializada en Investigación de la Escena del Crimen. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Relaciones Laborales",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Gestión de personas, contratación, relaciones laborales y desarrollo organizacional. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Finanzas",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Contabilidad, impuestos, análisis económico, presupuestos y finanzas. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Periodismo y Nuevos Medios",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Producción, edición y comunicación de contenidos en medios y plataformas.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión Ambiental",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Conocimientos técnicos y de gestión vinculados con producción, ambiente y sustentabilidad.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Gestión de Empresas Familiares",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Gestión de organizaciones, procesos, personas y recursos empresariales o públicos. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Relaciones Públicas",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Estrategia comercial, comunicación, marketing, relaciones públicas y gestión de clientes.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Administración Pública",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Gestión de organizaciones, procesos, personas y recursos empresariales o públicos. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Marketing",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Estrategia comercial, comunicación, marketing, relaciones públicas y gestión de clientes.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Gestión del Clima Laboral",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Formación superior especializada en Gestión del Clima Laboral. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Administración",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Gestión de organizaciones, procesos, personas y recursos empresariales o públicos. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Enseñanza del Inglés",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Gestión de PyMES",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Pregrado",
+      "Descripción": "Gestión de organizaciones, procesos, personas y recursos empresariales o públicos.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Marketing y Publicidad Digital",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Estrategia comercial, comunicación, marketing, relaciones públicas y gestión de clientes. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión de Recursos Humanos",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Gestión de personas, contratación, relaciones laborales y desarrollo organizacional.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Operaciones y Logística",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Gestión de operaciones, abastecimiento, inventarios y cadenas de suministro.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Diseño y Animación Digital",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Diseño y creación de productos, experiencias, materiales visuales y/o contenidos artísticos. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Educación",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Gestión de Recursos Turísticos",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Formación superior especializada en Gestión de Recursos Turísticos. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión del Turismo",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Planificación, operación y gestión de servicios turísticos, hoteleros o gastronómicos.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Dirección de Protocolo, Organización de Eventos y Relaciones Públicas",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Estrategia comercial, comunicación, marketing, relaciones públicas y gestión de clientes. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión Turística",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Formación superior especializada en Gestión Turística. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Sistemas de Información",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Abogacía",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión de la Educación en Contextos de Encierro",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Ciencia de Datos",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Análisis de datos, estadística y herramientas computacionales aplicadas a decisiones.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Gestión Bancaria",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Pregrado",
+      "Descripción": "Formación superior especializada en Gestión Bancaria.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Procurador",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Formación superior especializada en Procurador. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Higiene, Seguridad y Medio Ambiente del Trabajo",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Prevención de riesgos, salud ocupacional y seguridad en ambientes de trabajo. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Negocios Digitales",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Gestión de organizaciones, procesos, personas y recursos empresariales o públicos.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión de Instituciones Educativas",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación superior especializada en Gestión de Instituciones Educativas.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Animación y Arte Digital",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Diseño y creación de productos, experiencias, materiales visuales y/o contenidos artísticos.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Educación Inicial",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión Deportiva",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación superior especializada en Gestión Deportiva.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Comunicación Institucional",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Producción, edición y comunicación de contenidos en medios y plataformas.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Administración y Gestión de Políticas Públicas",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Gestión de organizaciones, procesos, personas y recursos empresariales o públicos. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Administración Agraria",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Gestión de organizaciones, procesos, personas y recursos empresariales o públicos. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Administración Hotelera",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Planificación, operación y gestión de servicios turísticos, hoteleros o gastronómicos. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Educación Física",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Gestión Contable e Impositiva",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Contabilidad, impuestos, análisis económico, presupuestos y finanzas. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Martillero, Corredor Público y Corredor Inmobiliario",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Periodismo",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Producción, edición y comunicación de contenidos en medios y plataformas. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Informática",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Relaciones Públicas e Institucionales",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Estrategia comercial, comunicación, marketing, relaciones públicas y gestión de clientes. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión de Recursos Humanos",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Gestión de personas, contratación, relaciones laborales y desarrollo organizacional. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Higiene y Seguridad Laboral",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Prevención de riesgos, salud ocupacional y seguridad en ambientes de trabajo.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Escribanía",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión Inmobiliaria",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación superior especializada en Gestión Inmobiliaria.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Psicopedagogía",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Gestión de Sociedades Cooperativas",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Pregrado",
+      "Descripción": "Gestión de organizaciones, procesos, personas y recursos empresariales o públicos.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Gestión de Empresas Agropecuarias",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Pregrado",
+      "Descripción": "Gestión de organizaciones, procesos, personas y recursos empresariales o públicos.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Comercio Internacional",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Operaciones comerciales internacionales, negociación, importación y exportación. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Higiene y Seguridad Laboral",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Prevención de riesgos, salud ocupacional y seguridad en ambientes de trabajo. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Relaciones Internacionales",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Formación superior especializada en Relaciones Internacionales. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Administración y Gestión Tributaria",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Contabilidad, impuestos, análisis económico, presupuestos y finanzas. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Contador Público",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Contabilidad, impuestos, análisis económico, presupuestos y finanzas. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Abogacía",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Martillero, Corredor Público y Corredor Inmobiliario",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Pregrado",
+      "Descripción": "Formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Relaciones Internacionales",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Formación superior especializada en Relaciones Internacionales.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Contador Público",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Contabilidad, impuestos, análisis económico, presupuestos y finanzas.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Administración",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Gestión de organizaciones, procesos, personas y recursos empresariales o públicos.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Gestión de Moda",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Diseño y creación de productos, experiencias, materiales visuales y/o contenidos artísticos. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Criminología y Seguridad",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Análisis, planificación y gestión en el ámbito de la seguridad, las políticas públicas o la prevención. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gestión Ambiental",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Conocimientos técnicos y de gestión vinculados con producción, ambiente y sustentabilidad. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Educación Primaria",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Dirección de Equipos de Ventas",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Pregrado",
+      "Descripción": "Estrategia comercial, comunicación, marketing, relaciones públicas y gestión de clientes. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  }
+]

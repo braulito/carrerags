@@ -1,0 +1,30 @@
+services:
+  api:
+    image: carrerags-api:latest
+    container_name: carrerags-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    init: true
+    restart: unless-stopped
+    user: "${CARRERAGS_API_UID:-10001}:${CARRERAGS_API_GID:-10001}"
+    ports:
+      - "8021:8021"
+    read_only: true
+    tmpfs:
+      - /tmp:size=64m,mode=1777
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    volumes:
+      - type: bind
+        source: ${CARRERAGS_API_JSON_DIR:-./json}
+        target: /app/JSON
+        bind:
+          create_host_path: false
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

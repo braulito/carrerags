@@ -1,0 +1,29 @@
+{
+  "resultado": false,
+  "pregunta": "morite",
+  "mensaje": "No se identificaron criterios de búsqueda en la pregunta",
+  "salida": {
+    "carrera": null,
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": null,
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 7887,
+      "salida": 62,
+      "total": 7949,
+      "entrada_cache": 7876,
+      "razonamiento": 22
+    },
+    "http_status": 404,
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7887,
+        "salida": 62,
+        "total": 7949,
+        "entrada_cache": 7876,
+        "razonamiento": 22
+      }
+    }
+  }
+}

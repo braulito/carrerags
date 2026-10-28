@@ -1,0 +1,84 @@
+{
+  "resultado": true,
+  "pregunta": "donde estudiar para ser abogado?",
+  "mensaje": "ok",
+  "rendimiento": {
+    "tiempo_total_segundos": 47.478946314,
+    "tiempos_etapas_segundos": {
+      "normalizacion": 24.378969178,
+      "rag": 0.151033292,
+      "respuesta_usuario": 22.948598427
+    },
+    "llamadas_llm": {
+      "normalizacion": {
+        "proveedor": "ollama",
+        "modelo": "phi4-mini:latest",
+        "tiempo_solicitud_segundos": 24.254309387,
+        "tiempo_servidor_segundos": 24.248105875,
+        "tiempo_carga_segundos": 2.573007084,
+        "tiempo_prompt_segundos": 20.486986,
+        "tiempo_generacion_segundos": 1.135973,
+        "tokens_salida": 32,
+        "tokens_por_segundo_generacion": 28.169684,
+        "tokens_por_segundo_solicitud": 1.319353,
+        "metricas_proveedor": {
+          "total_duration": 24248105875,
+          "load_duration": 2573007084,
+          "prompt_eval_duration": 20486986000,
+          "eval_duration": 1135973000,
+          "eval_count": 32
+        }
+      },
+      "respuesta_usuario": {
+        "proveedor": "ollama",
+        "modelo": "phi4-mini:latest",
+        "tiempo_solicitud_segundos": 22.94604226,
+        "tiempo_servidor_segundos": 22.941022541,
+        "tiempo_carga_segundos": 0.001066875,
+        "tiempo_prompt_segundos": 3.773947,
+        "tiempo_generacion_segundos": 19.078384,
+        "tokens_salida": 634,
+        "tokens_por_segundo_generacion": 33.231326,
+        "tokens_por_segundo_solicitud": 27.630037,
+        "metricas_proveedor": {
+          "total_duration": 22941022541,
+          "load_duration": 1066875,
+          "prompt_eval_duration": 3773947000,
+          "eval_duration": 19078384000,
+          "eval_count": 634
+        }
+      }
+    }
+  },
+  "salida": {
+    "carrera": "Abogacía",
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": null,
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 9412,
+      "salida": 666,
+      "total": 10078,
+      "entrada_cache": 2,
+      "razonamiento": null
+    },
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7729,
+        "salida": 32,
+        "total": 7761,
+        "entrada_cache": 0,
+        "razonamiento": null
+      },
+      "respuesta_usuario": {
+        "entrada": 1683,
+        "salida": 634,
+        "total": 2317,
+        "entrada_cache": 2,
+        "razonamiento": null
+      }
+    },
+    "respuesta": "Si estás buscando estudiar para ser abogado, hay varias universidades privadas en Argentina donde puedes cursar una carrera de abogacía. Aquí tienes algunas opciones:\n\n1. **Universidad de Morón (UM) — Morón, Buenos Aires**: Ofrece formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria a distancia, con prácticas y evaluaciones presenciales por confirmar. Visita [Universidad de Morón](https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia).\n\n2. **Universidad de Palermo (UP) — CABA, Argentina**: Ofrece formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria en línea, con prácticas y evaluaciones según carrera. Más información en [Universidad de Palermo](https://www.palermo.edu/online/carreras.html).\n\n3. **Universidad de Ciencias Empresariales y Sociales (UCES) — CABA, Argentina**: Ofrece formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria a distancia, con evaluaciones según carrera. Consulta el informe de autoevaluación institucional de 2026 en [UCES](https://w.uces.edu.ar/wp-content/uploads/2026/04/PDF_INFORME_EJECUTIVO_AUTOEVALUACION_INSTITUCIONAL_29.04_002.pdf).\n\n4. **Universidad Siglo 21 — Córdoba, Córdoba**: Ofrece formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria a distancia con instancias presenciales en el CAU, en modalidad híbrida. Más detalles en [Universidad Siglo 21](https://21.edu.ar/carreras-y-programas/distancia).\n\n5. **Universidad Argentina de la Empresa (UADE) — CABA, Argentina**: Ofrece formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria en línea, con prácticas y requisitos de presencia, especialmente en salud. Visita [UADE](https://www.uade.edu.ar/sites/uade-online/).\n\n6. **Universidad Católica de Salta (UCASAL) — Salta, Salta**: Ofrece formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria, con modalidades online y 100% online para algunas carreras. Más información en [UCASAL](https://www.ucasal.edu.ar/menu-oferta-educativa-por-modalidad/a-distancia).\n\n7. **Universidad FASTA (UFASTA) — Mar del Plata, Buenos Aires**: Ofrece formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria en línea, con prácticas y evaluaciones según carrera. Visita [Universidad FASTA](https://www.ufasta.edu.ar/estudiar-online/).\n\n8. **Universidad Blas Pascal (UBP) — Córdoba, Córdoba**: Ofrece formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria en línea, con instancias presenciales por confirmar. Más detalles en [UBP](https://landing.ubp.edu.ar/grado-y-pregrado-online/)."
+  }
+}

@@ -1,0 +1,10 @@
+**
+!app.py
+!wsgi.py
+!requirements.txt
+!requirements-docker.txt
+!templates/
+!templates/**
+!static/
+!static/**
+!.env

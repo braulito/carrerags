@@ -1,0 +1,78 @@
+{
+  "resultado": true,
+  "pregunta": "donde estudiar para ser abogado?",
+  "mensaje": "ok",
+  "rendimiento": {
+    "tiempo_total_segundos": 11.2790547,
+    "tiempos_etapas_segundos": {
+      "normalizacion": 3.5517397,
+      "rag": 0.3840532,
+      "respuesta_usuario": 7.3426701
+    },
+    "llamadas_llm": {
+      "normalizacion": {
+        "proveedor": "openai",
+        "modelo": "gpt-6-luna",
+        "tiempo_solicitud_segundos": 3.0290824,
+        "tiempo_servidor_segundos": 1.977,
+        "tiempo_carga_segundos": null,
+        "tiempo_prompt_segundos": null,
+        "tiempo_generacion_segundos": null,
+        "tokens_salida": 75,
+        "tokens_por_segundo_generacion": null,
+        "tokens_por_segundo_solicitud": 24.759974,
+        "metricas_proveedor": {
+          "openai_processing_ms": 1977.0,
+          "output_tokens": 75
+        }
+      },
+      "respuesta_usuario": {
+        "proveedor": "openai",
+        "modelo": "gpt-6-luna",
+        "tiempo_solicitud_segundos": 7.335057,
+        "tiempo_servidor_segundos": 6.954,
+        "tiempo_carga_segundos": null,
+        "tiempo_prompt_segundos": null,
+        "tiempo_generacion_segundos": null,
+        "tokens_salida": 849,
+        "tokens_por_segundo_generacion": null,
+        "tokens_por_segundo_solicitud": 115.745522,
+        "metricas_proveedor": {
+          "openai_processing_ms": 6954.0,
+          "output_tokens": 849
+        }
+      }
+    }
+  },
+  "salida": {
+    "carrera": "Abogacía",
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": null,
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 9582,
+      "salida": 924,
+      "total": 10506,
+      "entrada_cache": 0,
+      "razonamiento": 225
+    },
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7890,
+        "salida": 75,
+        "total": 7965,
+        "entrada_cache": 0,
+        "razonamiento": 32
+      },
+      "respuesta_usuario": {
+        "entrada": 1692,
+        "salida": 849,
+        "total": 2541,
+        "entrada_cache": 0,
+        "razonamiento": 193
+      }
+    },
+    "respuesta": "Podés estudiar **Abogacía**, una carrera de grado, en estas opciones privadas recuperadas:\n\n1. **Universidad de Morón (UM)** — Morón, Buenos Aires. **Grado; a distancia.** Formación jurídica y en procedimientos legales, con posible orientación a la actividad notarial e inmobiliaria. Las prácticas y los exámenes presenciales están **por confirmar**. [Ver oferta](https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia)\n\n2. **Universidad de Palermo (UP)** — CABA. **Grado; online.** Formación jurídica y en procedimientos legales, con posible orientación a la actividad notarial e inmobiliaria. Las prácticas y evaluaciones dependen de la carrera. [Ver oferta](https://www.palermo.edu/online/carreras.html)\n\n3. **Universidad de Ciencias Empresariales y Sociales (UCES)** — CABA. **Grado; a distancia.** Formación jurídica y en procedimientos legales, con posible orientación a la actividad notarial e inmobiliaria. Las evaluaciones dependen de la carrera. La oferta figura en un informe de autoevaluación institucional; la inscripción vigente **no está confirmada**. [Ver informe](https://w.uces.edu.ar/wp-content/uploads/2026/04/PDF_INFORME_EJECUTIVO_AUTOEVALUACION_INSTITUCIONAL_29.04_002.pdf)\n\n4. **Universidad Siglo 21** — Córdoba y CAU en Argentina. **Grado; a distancia o híbrida.** En Educación Distribuida Home hay que concurrir al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales. [Ver oferta](https://21.edu.ar/carreras-y-programas/distancia)\n\n5. **Universidad Argentina de la Empresa (UADE)** — CABA. **Grado; online.** La institución publicita esta modalidad; las prácticas y los requisitos de presencialidad dependen del plan. [Ver oferta](https://www.uade.edu.ar/sites/uade-online/)\n\n6. **Universidad Católica de Salta (UCASAL)** — Salta. **Grado; a distancia o digital.** La universidad distingue ofertas online de otras con evaluaciones según el programa; no se confirma que esta carrera sea 100 % online. [Ver oferta](https://www.ucasal.edu.ar/menu-oferta-educativa-por-modalidad/a-distancia)\n\n7. **Universidad FASTA (UFASTA)** — Mar del Plata, Buenos Aires. **Grado; online asincrónica.** Las prácticas y los exámenes dependen de la carrera. [Ver oferta](https://www.ufasta.edu.ar/estudiar-online/)\n\n8. **Universidad Blas Pascal (UBP)** — Córdoba. **Grado; online.** Las instancias presenciales están **por confirmar**. [Ver oferta](https://landing.ubp.edu.ar/grado-y-pregrado-online/)\n\nEn varias opciones, las prácticas, evaluaciones o instancias presenciales dependen de la carrera o están pendientes de confirmación."
+  }
+}

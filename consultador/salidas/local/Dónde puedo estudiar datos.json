@@ -1,0 +1,167 @@
+[
+  {
+    "original": {
+      "Título": "Técnico Superior en Data Science",
+      "Lugar donde se cursa": "Instituto Técnico Superior Teclab — CABA, Argentina",
+      "Nivel": "Superior no universitario",
+      "Descripción": "Análisis de datos, estadística y herramientas computacionales aplicadas a decisiones.",
+      "Tipo de cursada": "100% online (final remoto o sede cercana)",
+      "Pública/Privada": "Privada",
+      "URL": "https://teclab.edu.ar/faq/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ingeniería en Ciencia de Datos",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Análisis de datos, estadística y herramientas computacionales aplicadas a decisiones.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Ciencia de Datos",
+      "Lugar donde se cursa": "Universidad Católica de Salta (UCASAL) — Salta, Salta",
+      "Nivel": "Grado",
+      "Descripción": "Análisis de datos, estadística y herramientas computacionales aplicadas a decisiones. La universidad distingue ofertas online y modalidades con evaluaciones según el programa.",
+      "Tipo de cursada": "A distancia / digital (algunas modalidades 100% online)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.ucasal.edu.ar/menu-oferta-educativa-por-modalidad/a-distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Ciencia de Datos",
+      "Lugar donde se cursa": "Instituto Tecnológico Universitario (UNCUYO) — Mendoza, Mendoza",
+      "Nivel": "Pregrado",
+      "Descripción": "Programación, estadística, ciencia de datos, aprendizaje automático y prácticas profesionalizantes.",
+      "Tipo de cursada": "A distancia con exámenes finales presenciales.",
+      "Pública/Privada": "Pública",
+      "URL": "https://itu.uncuyo.edu.ar/estudios/titulo/tecnicoa-universitarioa-en-ciencia-de-datos"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Tecnología de Datos con orientación en Salud Digital",
+      "Lugar donde se cursa": "Universidad Argentina de la Empresa (UADE) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Análisis de datos, estadística y herramientas computacionales aplicadas a decisiones. La institución publicita modalidad online; consultar prácticas y requisitos de presencia, en particular en salud.",
+      "Tipo de cursada": "Online (prácticas/exámenes según plan)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.uade.edu.ar/sites/uade-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Ciencia de Datos",
+      "Lugar donde se cursa": "Universidad Blas Pascal (UBP) — Córdoba, Córdoba",
+      "Nivel": "Grado",
+      "Descripción": "Análisis de datos, estadística y herramientas computacionales aplicadas a decisiones.",
+      "Tipo de cursada": "Online (instancias presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://landing.ubp.edu.ar/grado-y-pregrado-online/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Técnico Universitario en Gobernanza de Datos",
+      "Lugar donde se cursa": "Universidad Católica de La Plata (UCALP) — La Plata, Buenos Aires",
+      "Nivel": "Pregrado",
+      "Descripción": "Formación superior especializada en Gobernanza de Datos. La institución informa exámenes finales presenciales en su explicación de modalidad.",
+      "Tipo de cursada": "A distancia con exámenes finales presenciales",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.ucalp.edu.ar/distancia/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gobernanza de Datos",
+      "Lugar donde se cursa": "Universidad Católica de La Plata (UCALP) — La Plata, Buenos Aires",
+      "Nivel": "Grado",
+      "Descripción": "Formación superior especializada en Gobernanza de Datos. La institución informa exámenes finales presenciales en su explicación de modalidad.",
+      "Tipo de cursada": "A distancia con exámenes finales presenciales",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.ucalp.edu.ar/distancia/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Redes y Comunicación de Datos",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Diseño, gestión y soporte de redes, telecomunicaciones e infraestructura digital.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Seguridad Informática",
+      "Lugar donde se cursa": "Universidad Católica de Salta (UCASAL) — Salta, Salta",
+      "Nivel": "Pregrado",
+      "Descripción": "Protección de sistemas, redes, datos y gestión de riesgos informáticos. La universidad distingue ofertas online y modalidades con evaluaciones según el programa.",
+      "Tipo de cursada": "A distancia / digital (algunas modalidades 100% online)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.ucasal.edu.ar/menu-oferta-educativa-por-modalidad/a-distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Ciberseguridad",
+      "Lugar donde se cursa": "Universidad Tecnológica Nacional (UTN) — Regional Buenos Aires",
+      "Nivel": "Pregrado",
+      "Descripción": "Protección de sistemas, redes, datos y gestión de riesgos informáticos. Verificar si la cohorte está abierta, ya que algunas se anuncian como próximas.",
+      "Tipo de cursada": "A distancia (algunas carreras figuran «próximamente»)",
+      "Pública/Privada": "Pública",
+      "URL": "https://sceu.frba.utn.edu.ar/e-learning/listado?q=carreras"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Superior en Ciberseguridad",
+      "Lugar donde se cursa": "CEDSa — Centro de Estudios a Distancia de Salta — Salta, Salta",
+      "Nivel": "Superior no universitario",
+      "Descripción": "Protección de sistemas, redes, datos y gestión de riesgos informáticos. Profesorados terciarios, no títulos universitarios; verificar prácticas y alcance jurisdiccional.",
+      "Tipo de cursada": "A distancia (prácticas docentes/exámenes según plan)",
+      "Pública/Privada": "Privada",
+      "URL": "https://cedsa.edu.ar/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Técnico Superior en Seguridad Informática",
+      "Lugar donde se cursa": "Instituto Técnico Superior Teclab — CABA, Argentina",
+      "Nivel": "Superior no universitario",
+      "Descripción": "Protección de sistemas, redes, datos y gestión de riesgos informáticos.",
+      "Tipo de cursada": "100% online (final remoto o sede cercana)",
+      "Pública/Privada": "Privada",
+      "URL": "https://teclab.edu.ar/faq/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Redes y Comunicación de Datos",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Diseño, gestión y soporte de redes, telecomunicaciones e infraestructura digital.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Ciberseguridad",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Protección de sistemas, redes, datos y gestión de riesgos informáticos.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  }
+]

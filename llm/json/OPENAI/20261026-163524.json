@@ -1,0 +1,36 @@
+{
+  "resultado": true,
+  "pregunta": "dime donde puedo estudiar para ser docente",
+  "mensaje": "ok",
+  "salida": {
+    "carrera": "Profesorado",
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": null,
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 9994,
+      "salida": 1420,
+      "total": 11414,
+      "entrada_cache": 7876,
+      "razonamiento": 373
+    },
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7892,
+        "salida": 194,
+        "total": 8086,
+        "entrada_cache": 7876,
+        "razonamiento": 153
+      },
+      "respuesta_usuario": {
+        "entrada": 2102,
+        "salida": 1226,
+        "total": 3328,
+        "entrada_cache": 0,
+        "razonamiento": 220
+      }
+    },
+    "respuesta": "Estas son las ofertas recuperadas para formarte como docente; todas figuran como privadas:\n\n1. **Profesorado de Educación Superior en Historia** — Instituto de Profesorado CONSUDEC, Esmeralda 759, CABA. **Nivel:** superior no universitario. **Modalidad:** híbrida, con clases presenciales y actividades virtuales; las prácticas y la residencia son presenciales. Forma para enseñar en el nivel secundario y superior no universitario. [Más información](https://www.profesoradoconsudec.edu.ar/web/carrerasconsudec/profesorados/historia.html)\n\n2. **Profesorado para Profesionales** — Universidad Champagnat (UCH), Godoy Cruz, Mendoza. **Nivel:** grado, ciclo para profesionales. **Modalidad:** a distancia. Es una formación pedagógica para profesionales con título previo; hay que comprobar si las prácticas requieren presencialidad. [Más información](https://expoeducativa.mendoza.edu.ar/carrera/653)\n\n3. **Profesorado de Educación Secundaria en Historia** — CEDSa, Salta, Salta. **Nivel:** superior no universitario. **Modalidad:** a distancia; las prácticas docentes y los exámenes dependen del plan. Es un profesorado terciario, no un título universitario; hay que verificar las prácticas y el alcance jurisdiccional. [Más información](https://cedsa.edu.ar/)\n\n4. **Profesorado de Educación Secundaria en Geografía** — CEDSa, Salta, Salta. **Nivel:** superior no universitario. **Modalidad:** a distancia; las prácticas docentes y los exámenes dependen del plan. Es un profesorado terciario, no un título universitario; hay que verificar las prácticas y el alcance jurisdiccional. [Más información](https://cedsa.edu.ar/)\n\n5. **Profesorado Universitario en Educación Inicial** — Universidad Champagnat (UCH), Godoy Cruz, Mendoza. **Nivel:** grado. **Modalidad:** híbrida, con cursada presencial dos o tres veces por semana y campus virtual los otros días. La duración indicada es de cuatro años e incluye prácticas. [Más información](https://campusvirtual.uch.edu.ar/carrera/profesorado-educacion-inicial)\n\n6. **Profesorado Universitario en Educación Primaria** — Universidad Champagnat (UCH), Godoy Cruz, Mendoza. **Nivel:** grado. **Modalidad:** híbrida, con cursada presencial dos o tres veces por semana y campus virtual los otros días. La duración indicada es de cuatro años e incluye prácticas. [Más información](https://www.uch.edu.ar/carrera/profesorado-educacion-primaria)\n\n7. **Profesorado de Educación Secundaria en Historia** — Instituto Superior del Profesorado San Agustín, Francisco Acuña de Figueroa 1742, CABA. **Nivel:** superior no universitario. **Modalidad:** híbrida, con clases presenciales y virtuales sincrónicas; la cursada virtual es los sábados por la mañana. Incluye prácticas pedagógicas. [Más información](https://profsanagustin.com.ar/profesorado-de-historia/)\n\n8. **Profesorado de Educación Secundaria en Lengua y Literatura** — CEDSa, Salta, Salta. **Nivel:** superior no universitario. **Modalidad:** a distancia; las prácticas docentes y los exámenes dependen del plan. Es un profesorado terciario, no un título universitario; hay que verificar las prácticas y el alcance jurisdiccional. [Más información](https://cedsa.edu.ar/)\n\n9. **Profesorado Universitario** — Universidad del Este (UDE), La Plata, Buenos Aires. **Nivel:** grado, ciclo para graduados. **Modalidad:** 100 % a distancia, con cursada y evaluaciones online, según la universidad. Es una formación pedagógica de un año y medio y requiere un título universitario previo. [Más información](https://www.ude.edu.ar/facultades/profesorado-universitario/)\n\n10. **Ciclo de Profesorado Universitario para Profesionales** — Universidad Juan Agustín Maza, Mendoza. **Nivel:** grado, ciclo para profesionales. **Modalidad:** a distancia, asincrónica, con parciales y finales online; la modalidad de la práctica y la residencia está por confirmar. Requiere un título previo. [Más información](https://www.umaza.edu.ar/landings/profesoradoprofesionales/inicio)\n\nEn las ofertas que exigen título previo, ese requisito limita el ingreso a personas que ya cuentan con una titulación. Para CEDSa, la presencialidad de prácticas o exámenes y el alcance jurisdiccional deben verificarse según el plan."
+  }
+}

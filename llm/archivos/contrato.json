@@ -1,0 +1,14 @@
+{
+  "carrera": "Abogacía",
+  "nivel_educativo": "Grado",
+  "institucion": "UNTREF",
+  "ubicacion": null,
+  "modalidad": null,
+  "consumo_tokens": {
+    "entrada": 0,
+    "salida": 0,
+    "total": 0,
+    "entrada_cache": 0,
+    "razonamiento": 0
+  }
+}

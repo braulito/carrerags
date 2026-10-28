@@ -1,0 +1,552 @@
+[
+  {
+    "original": {
+      "Título": "Profesorado de Educación Secundaria en Lengua y Literatura",
+      "Lugar donde se cursa": "CEDSa — Centro de Estudios a Distancia de Salta — Salta, Salta",
+      "Nivel": "Superior no universitario",
+      "Descripción": "Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas. Profesorados terciarios, no títulos universitarios; verificar prácticas y alcance jurisdiccional.",
+      "Tipo de cursada": "A distancia (prácticas docentes/exámenes según plan)",
+      "Pública/Privada": "Privada",
+      "URL": "https://cedsa.edu.ar/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Secundaria en Historia",
+      "Lugar donde se cursa": "CEDSa — Centro de Estudios a Distancia de Salta — Salta, Salta",
+      "Nivel": "Superior no universitario",
+      "Descripción": "Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas. Profesorados terciarios, no títulos universitarios; verificar prácticas y alcance jurisdiccional.",
+      "Tipo de cursada": "A distancia (prácticas docentes/exámenes según plan)",
+      "Pública/Privada": "Privada",
+      "URL": "https://cedsa.edu.ar/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Secundaria en Geografía",
+      "Lugar donde se cursa": "CEDSa — Centro de Estudios a Distancia de Salta — Salta, Salta",
+      "Nivel": "Superior no universitario",
+      "Descripción": "Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas. Profesorados terciarios, no títulos universitarios; verificar prácticas y alcance jurisdiccional.",
+      "Tipo de cursada": "A distancia (prácticas docentes/exámenes según plan)",
+      "Pública/Privada": "Privada",
+      "URL": "https://cedsa.edu.ar/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Superior en Historia",
+      "Lugar donde se cursa": "Instituto de Profesorado CONSUDEC — Esmeralda 759, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente en Historia con preparación para el nivel secundario y superior no universitario; incluye prácticas y residencia.",
+      "Tipo de cursada": "Híbrida: clases presenciales y actividades virtuales en campus; prácticas y residencia presenciales.",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.profesoradoconsudec.edu.ar/web/carrerasconsudec/profesorados/historia.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Secundaria en Historia",
+      "Lugar donde se cursa": "Instituto Superior del Profesorado San Agustín — Francisco Acuña de Figueroa 1742, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente para enseñar Historia en el nivel secundario; incluye prácticas pedagógicas.",
+      "Tipo de cursada": "Híbrida: clases presenciales y virtuales sincrónicas; sábados por la mañana de cursada virtual.",
+      "Pública/Privada": "Privada",
+      "URL": "https://profsanagustin.com.ar/profesorado-de-historia/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado para Profesionales",
+      "Lugar donde se cursa": "Universidad Champagnat (UCH) — Godoy Cruz, Mendoza",
+      "Nivel": "Grado (ciclo para profesionales)",
+      "Descripción": "Formación pedagógica para profesionales con título previo, orientada a enseñanza y práctica docente. Oferta a distancia publicada en la Expo Educativa provincial.",
+      "Tipo de cursada": "A distancia; comprobar presencialidad de prácticas.",
+      "Pública/Privada": "Privada",
+      "URL": "https://expoeducativa.mendoza.edu.ar/carrera/653"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado Universitario en Educación Primaria",
+      "Lugar donde se cursa": "Universidad Champagnat (UCH) — Godoy Cruz, Mendoza",
+      "Nivel": "Grado",
+      "Descripción": "Formación docente universitaria con prácticas; cuatro años. Se cursa presencialmente dos o tres veces por semana y mediante campus virtual los otros días.",
+      "Tipo de cursada": "Híbrida: presencial intensiva 2-3 días/semana + campus virtual.",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.uch.edu.ar/carrera/profesorado-educacion-primaria"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Secundaria en Lengua y Literatura",
+      "Lugar donde se cursa": "Instituto Superior de Formación Docente y Técnica N.º 9-030 «Del Bicentenario» — Mendoza, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación de docentes de nivel secundario en lengua y literatura, duración cuatro años.",
+      "Tipo de cursada": "Semipresencial (según ficha propia del profesorado); prácticas docentes presenciales.",
+      "Pública/Privada": "Pública",
+      "URL": "https://institutodelbicentenario-infd.mendoza.edu.ar/sitio/profesorado-de-educacion-secundaria-en-lengua-y-literatura/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado Universitario en Educación Inicial",
+      "Lugar donde se cursa": "Universidad Champagnat (UCH) — Godoy Cruz, Mendoza",
+      "Nivel": "Grado",
+      "Descripción": "Formación docente universitaria con prácticas; cuatro años. Se cursa presencialmente dos o tres veces por semana y mediante campus virtual los otros días.",
+      "Tipo de cursada": "Híbrida: presencial intensiva 2-3 días/semana + campus virtual.",
+      "Pública/Privada": "Privada",
+      "URL": "https://campusvirtual.uch.edu.ar/carrera/profesorado-educacion-inicial"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Primaria",
+      "Lugar donde se cursa": "Instituto Nuestra Señora de las Nieves (A-587) — Liniers, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Instituto superior privado, formación oficial de 4 años en formación docente para educación primaria, con prácticas y residencias. La carrera anuncia porcentaje virtual.",
+      "Tipo de cursada": "Presencial con porcentaje virtual; porcentaje exacto por confirmar.",
+      "Pública/Privada": "Privada",
+      "URL": "https://lasnieves.edu.ar/profesorado-de-educacion-primaria/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado Universitario",
+      "Lugar donde se cursa": "Universidad del Este (UDE) — La Plata, Buenos Aires",
+      "Nivel": "Grado (ciclo para graduados)",
+      "Descripción": "Formación pedagógica de un año y medio para graduados con título universitario previo. Reconocimiento oficial RM 897/24.",
+      "Tipo de cursada": "100% a distancia: cursada y evaluaciones online, según universidad.",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.ude.edu.ar/facultades/profesorado-universitario/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Secundaria en Física",
+      "Lugar donde se cursa": "Instituto de Formación Docente N.º 7 — Las Lajas, Neuquén",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación inicial docente de cuatro años para enseñar Física en educación secundaria.",
+      "Tipo de cursada": "Híbrida: 70% virtual y 30% presencial, con encuentros presenciales quincenales.",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.neuquen.edu.ar/las-lajas-comenzo-el-dictado-del-profesorado-en-fisica-con-mas-de-100-inscriptos/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Inicial",
+      "Lugar donde se cursa": "Instituto Nuestra Señora de las Nieves (A-587) — Liniers, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Instituto superior privado, formación oficial de 4 años en formación docente para educación inicial, con prácticas y residencias. La carrera anuncia porcentaje virtual.",
+      "Tipo de cursada": "Presencial con porcentaje virtual; porcentaje exacto por confirmar.",
+      "Pública/Privada": "Privada",
+      "URL": "https://lasnieves.edu.ar/profesorado-de-educacion-inicial/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Superior en Danza con Orientación en Danza Clásica",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Danza «Aída Mastrazzi» — San Nicolás, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial en danza con prácticas profesionales; 5 años. Para educación inicial, primaria, secundaria y, cuando corresponde, superior.",
+      "Tipo de cursada": "Presencial o semipresencial según los espacios curriculares; requiere presencialidad.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-danza"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Danza con Orientación en Danza Contemporánea",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Danza «Aída Mastrazzi» — San Nicolás, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial en danza con prácticas profesionales; 4 años. Para educación inicial, primaria, secundaria y, cuando corresponde, superior.",
+      "Tipo de cursada": "Presencial o semipresencial según los espacios curriculares; requiere presencialidad.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-danza"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Inicial",
+      "Lugar donde se cursa": "Instituto de Educación Superior N.º 9-001 «General José de San Martín» — San Martín, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Instituto público y gratuito, pedagogía y didáctica de educación inicial. La preinscripción 2027 declara la modalidad combinada de las carreras. Incluye formación práctica.",
+      "Tipo de cursada": "Híbrida: modalidad combinada presencial y virtual (oferta ingreso 2027).",
+      "Pública/Privada": "Pública",
+      "URL": "https://ens9001-infd.mendoza.edu.ar/sitio/ingreso-pre-inscripcion/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado en Educación Inicial",
+      "Lugar donde se cursa": "Instituto Superior de Formación Docente y Técnica N.º 9-030 «Del Bicentenario» — Mendoza, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente inicial para jardín de infantes y nivel inicial, duración cuatro años.",
+      "Tipo de cursada": "Semipresencial (según ficha propia del profesorado); prácticas docentes presenciales.",
+      "Pública/Privada": "Pública",
+      "URL": "https://institutodelbicentenario-infd.mendoza.edu.ar/sitio/profesorado-de-educacion-inicial/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Superior en Danza con Orientación en Danza Contemporánea",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Danza «Aída Mastrazzi» — San Nicolás, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial en danza con prácticas profesionales; 5 años. Para educación inicial, primaria, secundaria y, cuando corresponde, superior.",
+      "Tipo de cursada": "Presencial o semipresencial según los espacios curriculares; requiere presencialidad.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-danza"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado en Historia",
+      "Lugar donde se cursa": "Universidad Nacional Madres de Plaza de Mayo (UNMa) — CABA",
+      "Nivel": "Grado (profesorado universitario)",
+      "Descripción": "Formación universitaria docente para la enseñanza de Historia en los niveles medio y superior, con estudios de procesos históricos y didáctica.",
+      "Tipo de cursada": "A distancia (carrera completa ofrecida en esta modalidad; confirmar exigencias de prácticas y evaluaciones presenciales).",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unma.edu.ar/pag/prof_historia.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Danza con Orientación en Danza Clásica",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Danza «Aída Mastrazzi» — San Nicolás, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial en danza con prácticas profesionales; 4 años. Para educación inicial, primaria, secundaria y, cuando corresponde, superior.",
+      "Tipo de cursada": "Presencial o semipresencial según los espacios curriculares; requiere presencialidad.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-danza"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Primaria",
+      "Lugar donde se cursa": "Instituto Superior de Formación Docente y Técnica N.º 9-030 «Del Bicentenario» — Mendoza, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente inicial para nivel primario, duración cuatro años.",
+      "Tipo de cursada": "Semipresencial (según ficha propia del profesorado); prácticas docentes presenciales.",
+      "Pública/Privada": "Pública",
+      "URL": "https://institutodelbicentenario-infd.mendoza.edu.ar/sitio/profesorado-de-educacion-primaria/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Secundaria en Lengua y Literatura",
+      "Lugar donde se cursa": "Instituto de Educación Superior N.º 9-001 «General José de San Martín» — San Martín, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Instituto público y gratuito, lengua, literatura y su enseñanza. La preinscripción 2027 declara la modalidad combinada de las carreras. Incluye formación práctica.",
+      "Tipo de cursada": "Híbrida: modalidad combinada presencial y virtual (oferta ingreso 2027).",
+      "Pública/Privada": "Pública",
+      "URL": "https://ens9001-infd.mendoza.edu.ar/sitio/ingreso-pre-inscripcion/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado para Técnicos",
+      "Lugar donde se cursa": "Instituto de Educación Superior N.º 9-001 «General José de San Martín» — San Martín, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Instituto público y gratuito, formación pedagógica para personas con titulación técnica previa; confirmar requisitos. La preinscripción 2027 declara la modalidad combinada de las carreras. Incluye formación práctica.",
+      "Tipo de cursada": "Híbrida: modalidad combinada presencial y virtual (oferta ingreso 2027).",
+      "Pública/Privada": "Pública",
+      "URL": "https://ens9001-infd.mendoza.edu.ar/sitio/ingreso-pre-inscripcion/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Secundaria en Geografía",
+      "Lugar donde se cursa": "Instituto de Educación Superior N.º 9-001 «General José de San Martín» — San Martín, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Instituto público y gratuito, geografía humana y física y su enseñanza. La preinscripción 2027 declara la modalidad combinada de las carreras. Incluye formación práctica.",
+      "Tipo de cursada": "Híbrida: modalidad combinada presencial y virtual (oferta ingreso 2027).",
+      "Pública/Privada": "Pública",
+      "URL": "https://ens9001-infd.mendoza.edu.ar/sitio/ingreso-pre-inscripcion/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado Universitario",
+      "Lugar donde se cursa": "Universidad de Morón (UM) — Morón, Buenos Aires",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas.",
+      "Tipo de cursada": "A distancia (prácticas/exámenes presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Primaria",
+      "Lugar donde se cursa": "Instituto de Educación Superior N.º 9-001 «General José de San Martín» — San Martín, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Instituto público y gratuito, formación integral para docencia primaria. La preinscripción 2027 declara la modalidad combinada de las carreras. Incluye formación práctica.",
+      "Tipo de cursada": "Híbrida: modalidad combinada presencial y virtual (oferta ingreso 2027).",
+      "Pública/Privada": "Pública",
+      "URL": "https://ens9001-infd.mendoza.edu.ar/sitio/ingreso-pre-inscripcion/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Enseñanza Superior",
+      "Lugar donde se cursa": "Universidad de Concepción del Uruguay (UCU) — Concepción del Uruguay, Entre Ríos",
+      "Nivel": "Grado (ciclo para profesionales)",
+      "Descripción": "Formación pedagógica para desempeñarse en el nivel superior a partir de estudios superiores previos.",
+      "Tipo de cursada": "A distancia; la universidad también ofrece opción semipresencial.",
+      "Pública/Privada": "Privada",
+      "URL": "https://ucu.edu.ar/project/pes-virtual/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Inglés",
+      "Lugar donde se cursa": "Instituto de Educación Superior N.º 9-001 «General José de San Martín» — San Martín, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Instituto público y gratuito, lengua inglesa, didáctica y prácticas docentes. La preinscripción 2027 declara la modalidad combinada de las carreras. Incluye formación práctica.",
+      "Tipo de cursada": "Híbrida: modalidad combinada presencial y virtual (oferta ingreso 2027).",
+      "Pública/Privada": "Pública",
+      "URL": "https://ens9001-infd.mendoza.edu.ar/sitio/ingreso-pre-inscripcion/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ciclo de Profesorado Universitario para Profesionales",
+      "Lugar donde se cursa": "Universidad Juan Agustín Maza — Mendoza",
+      "Nivel": "Grado (ciclo para profesionales)",
+      "Descripción": "Ciclo de formación docente para profesionales con título previo; contempla práctica y residencia; exámenes online, según ficha de la universidad y catálogo educativo de Mendoza.",
+      "Tipo de cursada": "A distancia: asincrónica con parciales y finales online; práctica/residencia por confirmar.",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.umaza.edu.ar/landings/profesoradoprofesionales/inicio"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Superior en Artes Visuales con Orientación en Dibujo",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Artes Visuales «Lola Mora» — Villa Lugano, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial y prácticas de enseñanza en dibujo y enseñanza superior; duración 5 años. La oferta de GCBA identifica expresamente 'modalidad de cursada: mixta'.",
+      "Tipo de cursada": "Híbrida/mixta, presencial y virtual; porcentaje y días presenciales por confirmar.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-artes-visuales"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Superior en Artes Visuales con Orientación en Pintura",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Artes Visuales «Lola Mora» — Villa Lugano, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial y prácticas de enseñanza en pintura y enseñanza superior; duración 5 años. La oferta de GCBA identifica expresamente 'modalidad de cursada: mixta'.",
+      "Tipo de cursada": "Híbrida/mixta, presencial y virtual; porcentaje y días presenciales por confirmar.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-artes-visuales"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Superior en Artes Visuales con Orientación en Grabado",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Artes Visuales «Lola Mora» — Villa Lugano, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial y prácticas de enseñanza en grabado y enseñanza superior; duración 5 años. La oferta de GCBA identifica expresamente 'modalidad de cursada: mixta'.",
+      "Tipo de cursada": "Híbrida/mixta, presencial y virtual; porcentaje y días presenciales por confirmar.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-artes-visuales"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Artes Visuales en Educación Superior con Orientación en Escultura",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Artes Visuales «Lola Mora» — Villa Lugano, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial y prácticas de enseñanza en escultura y enseñanza superior; duración 5 años. La oferta de GCBA identifica expresamente 'modalidad de cursada: mixta'.",
+      "Tipo de cursada": "Híbrida/mixta, presencial y virtual; porcentaje y días presenciales por confirmar.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-artes-visuales"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Especial con Orientación en Discapacidad Intelectual",
+      "Lugar donde se cursa": "Instituto de Educación Superior N.º 9-001 «General José de San Martín» — San Martín, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Instituto público y gratuito, educación inclusiva y discapacidad intelectual. La preinscripción 2027 declara la modalidad combinada de las carreras. Incluye formación práctica.",
+      "Tipo de cursada": "Híbrida: modalidad combinada presencial y virtual (oferta ingreso 2027).",
+      "Pública/Privada": "Pública",
+      "URL": "https://ens9001-infd.mendoza.edu.ar/sitio/ingreso-pre-inscripcion/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado Universitario",
+      "Lugar donde se cursa": "Universidad Nacional de San Martín (UNSAM) — San Martín, Buenos Aires",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas.",
+      "Tipo de cursada": "A distancia (presencialidad puntual por confirmar)",
+      "Pública/Privada": "Pública",
+      "URL": "https://unsam.edu.ar/oferta/carreras/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Secundaria en Biología",
+      "Lugar donde se cursa": "Instituto de Educación Superior N.º 9-001 «General José de San Martín» — San Martín, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Instituto público y gratuito, biología y su enseñanza. La preinscripción 2027 declara la modalidad combinada de las carreras. Incluye formación práctica.",
+      "Tipo de cursada": "Híbrida: modalidad combinada presencial y virtual (oferta ingreso 2027).",
+      "Pública/Privada": "Pública",
+      "URL": "https://ens9001-infd.mendoza.edu.ar/sitio/ingreso-pre-inscripcion/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado en Ciencias de la Educación",
+      "Lugar donde se cursa": "Universidad de Concepción del Uruguay (UCU) — Concepción del Uruguay, Entre Ríos",
+      "Nivel": "Grado",
+      "Descripción": "Carrera de 4 años, formación pedagógica, didáctica, investigación y práctica docente; título con reconocimiento oficial. Modalidad a distancia con campus y supervisión remota de exámenes.",
+      "Tipo de cursada": "A distancia (aula virtual y evaluaciones supervisadas remotamente).",
+      "Pública/Privada": "Privada",
+      "URL": "https://ucu.edu.ar/project/profesorado-en-ciencias-de-la-educacion/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Secundaria en Historia",
+      "Lugar donde se cursa": "Instituto de Educación Superior N.º 9-001 «General José de San Martín» — San Martín, Mendoza",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Instituto público y gratuito, historia social y política y su didáctica. La preinscripción 2027 declara la modalidad combinada de las carreras. Incluye formación práctica.",
+      "Tipo de cursada": "Híbrida: modalidad combinada presencial y virtual (oferta ingreso 2027).",
+      "Pública/Privada": "Pública",
+      "URL": "https://ens9001-infd.mendoza.edu.ar/sitio/ingreso-pre-inscripcion/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado Universitario en Enseñanza Secundaria y Superior",
+      "Lugar donde se cursa": "Universidad Católica de Santa Fe (UCSF) — Santa Fe, Santa Fe",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas.",
+      "Tipo de cursada": "Online (sincrónica/asincrónica/mixta)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.ucsf.edu.ar/la-ucsf/sedes/on-line/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Artes Visuales con Orientación en Dibujo",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Artes Visuales «Lola Mora» — Villa Lugano, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial y prácticas de enseñanza en dibujo; duración 4 años. La oferta de GCBA identifica expresamente 'modalidad de cursada: mixta'.",
+      "Tipo de cursada": "Híbrida/mixta, presencial y virtual; porcentaje y días presenciales por confirmar.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-artes-visuales"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Enseñanza de Nivel Medio y Superior en Biología",
+      "Lugar donde se cursa": "Universidad Nacional de Río Negro (UNRN) — General Roca, Río Negro",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas. El sitio marca inscripciones cerradas al momento del relevamiento.",
+      "Tipo de cursada": "A distancia (presencialidad puntual por confirmar)",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unrn.edu.ar/section/74/educacion-virtual.html?categoryid=1&lang=es"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Artes Visuales con Orientación en Grabado",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Artes Visuales «Lola Mora» — Villa Lugano, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial y prácticas de enseñanza en grabado; duración 4 años. La oferta de GCBA identifica expresamente 'modalidad de cursada: mixta'.",
+      "Tipo de cursada": "Híbrida/mixta, presencial y virtual; porcentaje y días presenciales por confirmar.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-artes-visuales"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Inglés",
+      "Lugar donde se cursa": "Instituto Cultural de Mendoza (PT-153) — Mendoza Capital",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente de cuatro años con título de validez nacional. La ficha oficial publicada por Expo Educativa declara 70% presencial y 30% virtual.",
+      "Tipo de cursada": "Híbrida: 70% presencial y 30% virtual.",
+      "Pública/Privada": "Privada",
+      "URL": "https://expoeducativa.mendoza.edu.ar/carrera/752"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado Universitario para Profesionales",
+      "Lugar donde se cursa": "Universidad Nacional de Villa María (UNVM) — Villa María, Córdoba",
+      "Nivel": "Grado (ciclo para profesionales)",
+      "Descripción": "Formación pedagógica de profesionales que cuentan con título superior previo.",
+      "Tipo de cursada": "A distancia (cursada de la carrera/CCC, confirmada en página de inscripción a ciclos de complementación).",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unvm.edu.ar/inscripciones-ccc/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Educación Superior en Artes Visuales",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Artes Visuales «Lola Mora» — Villa Lugano, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial y prácticas de enseñanza en artes visuales y docencia superior; duración 5 años. La oferta de GCBA identifica expresamente 'modalidad de cursada: mixta'.",
+      "Tipo de cursada": "Híbrida/mixta, presencial y virtual; porcentaje y días presenciales por confirmar.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-artes-visuales"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Artes Visuales con Orientación en Pintura",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Artes Visuales «Lola Mora» — Villa Lugano, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial y prácticas de enseñanza en pintura; duración 4 años. La oferta de GCBA identifica expresamente 'modalidad de cursada: mixta'.",
+      "Tipo de cursada": "Híbrida/mixta, presencial y virtual; porcentaje y días presenciales por confirmar.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-artes-visuales"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Artes Visuales",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Artes Visuales «Lola Mora» — Villa Lugano, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial y prácticas de enseñanza en artes visuales; duración 4 años. La oferta de GCBA identifica expresamente 'modalidad de cursada: mixta'.",
+      "Tipo de cursada": "Híbrida/mixta, presencial y virtual; porcentaje y días presenciales por confirmar.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-artes-visuales"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Enseñanza de Nivel Medio y Superior en Química",
+      "Lugar donde se cursa": "Universidad Nacional de Río Negro (UNRN) — General Roca, Río Negro",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas. El sitio marca inscripciones cerradas al momento del relevamiento.",
+      "Tipo de cursada": "A distancia (presencialidad puntual por confirmar)",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unrn.edu.ar/section/74/educacion-virtual.html?categoryid=1&lang=es"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado Universitario",
+      "Lugar donde se cursa": "Universidad Católica de La Plata (UCALP) — La Plata, Buenos Aires",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación pedagógica, enseñanza, gestión educativa y/o desarrollo de propuestas didácticas. La institución informa exámenes finales presenciales en su explicación de modalidad.",
+      "Tipo de cursada": "A distancia con exámenes finales presenciales",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.ucalp.edu.ar/distancia/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Profesorado de Artes Visuales con Orientación en Escultura",
+      "Lugar donde se cursa": "Escuela Superior de Educación Artística en Artes Visuales «Lola Mora» — Villa Lugano, CABA",
+      "Nivel": "Superior no universitario (Profesorado)",
+      "Descripción": "Formación docente oficial y prácticas de enseñanza en escultura; duración 4 años. La oferta de GCBA identifica expresamente 'modalidad de cursada: mixta'.",
+      "Tipo de cursada": "Híbrida/mixta, presencial y virtual; porcentaje y días presenciales por confirmar.",
+      "Pública/Privada": "Pública",
+      "URL": "https://buenosaires.gob.ar/gcaba_historico/profesorados-de-educacion-artistica/profesorado-de-artes-visuales"
+    }
+  }
+]

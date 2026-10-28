@@ -1,0 +1,26 @@
+# Lista permitida para construir la API.
+**
+!Dockerfile
+!requirements.txt
+!main.py
+!log_config.json
+!healthcheck.py
+!routers/
+!routers/*.py
+!helpers/
+!helpers/**/
+!helpers/*.py
+!helpers/**/*.py
+!helpers/prompt.md
+!helpers/prompt_respuesta_usuario.md
+
+# Excluir archivos de entorno salvo el .env de llm solicitado para esta imagen.
+.env
+.env.*
+*.env
+**/.env
+**/.env.*
+**/*.env
+
+# Únicamente el .env de la raíz del contexto llm se incorpora a la imagen.
+!.env

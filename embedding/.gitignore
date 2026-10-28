@@ -1,0 +1,10 @@
+# Los pesos se descargan dentro de Docker, nunca en el repositorio.
+models/
+.cache/
+*.safetensors
+*.bin
+*.onnx
+*.pt
+*.pth
+__pycache__/
+.venv/

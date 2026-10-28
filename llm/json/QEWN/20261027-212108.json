@@ -1,0 +1,36 @@
+{
+  "resultado": true,
+  "pregunta": "morite",
+  "mensaje": "ok",
+  "salida": {
+    "carrera": null,
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": "Morón, Buenos Aires",
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 9854,
+      "salida": 1453,
+      "total": 11307,
+      "entrada_cache": 6845,
+      "razonamiento": null
+    },
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7864,
+        "salida": 34,
+        "total": 7898,
+        "entrada_cache": 6845,
+        "razonamiento": null
+      },
+      "respuesta_usuario": {
+        "entrada": 1990,
+        "salida": 1419,
+        "total": 3409,
+        "entrada_cache": 0,
+        "razonamiento": null
+      }
+    },
+    "respuesta": "Aquí tienes las ofertas educativas recuperadas para tu consulta:\n\n**Oferta 1:**\n*   **Título:** Tasador, Martillero Público y Corredor\n*   **Institución:** Universidad de Morón (UM) — Morón, Buenos Aires\n*   **Nivel:** Pregrado\n*   **Modalidad:** A distancia (prácticas/exámenes presenciales por confirmar)\n*   **Tipo:** Privada\n*   **Descripción:** Formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria.\n*   **Enlace:** https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia\n\n**Oferta 2:**\n*   **Título:** Guía de Turismo\n*   **Institución:** Universidad de Morón (UM) — Morón, Buenos Aires\n*   **Nivel:** Pregrado\n*   **Modalidad:** A distancia (prácticas/exámenes presenciales por confirmar)\n*   **Tipo:** Privada\n*   **Descripción:** Planificación, operación y gestión de servicios turísticos, hoteleros o gastronómicos.\n*   **Enlace:** https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia\n\n**Oferta 3:**\n*   **Título:** Licenciatura en Turismo\n*   **Institución:** Universidad de Morón (UM) — Morón, Buenos Aires\n*   **Nivel:** Grado\n*   **Modalidad:** A distancia (prácticas/exámenes presenciales por confirmar)\n*   **Tipo:** Privada\n*   **Descripción:** Planificación, operación y gestión de servicios turísticos, hoteleros o gastronómicos.\n*   **Enlace:** https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia\n\n**Oferta 4:**\n*   **Título:** Licenciatura en Gestión Hotelera\n*   **Institución:** Universidad de Morón (UM) — Morón, Buenos Aires\n*   **Nivel:** Grado\n*   **Modalidad:** A distancia (prácticas/exámenes presenciales por confirmar)\n*   **Tipo:** Privada\n*   **Descripción:** Planificación, operación y gestión de servicios turísticos, hoteleros o gastronómicos.\n*   **Enlace:** https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia\n\n**Oferta 5:**\n*   **Título:** Abogacía\n*   **Institución:** Universidad de Morón (UM) — Morón, Buenos Aires\n*   **Nivel:** Grado\n*   **Modalidad:** A distancia (prácticas/exámenes presenciales por confirmar)\n*   **Tipo:** Privada\n*   **Descripción:** Formación jurídica, procedimientos legales y/o actividad notarial e inmobiliaria.\n*   **Enlace:** https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia\n\n**Oferta 6:**\n*   **Título:** Tecnicatura Universitaria en Topografía\n*   **Institución:** Universidad de Morón (UM) — Morón, Buenos Aires\n*   **Nivel:** Pregrado\n*   **Modalidad:** A distancia (prácticas/exámenes presenciales por confirmar)\n*   **Tipo:** Privada\n*   **Descripción:** Estudio, análisis y representación territorial mediante herramientas geográficas y cartográficas.\n*   **Enlace:** https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia\n\n**Oferta 7:**\n*   **Título:** Licenciatura en Publicidad\n*   **Institución:** Universidad de Morón (UM) — Morón, Buenos Aires\n*   **Nivel:** Grado\n*   **Modalidad:** A distancia (prácticas/exámenes presenciales por confirmar)\n*   **Tipo:** Privada\n*   **Descripción:** Estrategia comercial, comunicación, marketing, relaciones públicas y gestión de clientes.\n*   **Enlace:** https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia\n\n**Oferta 8:**\n*   **Título:** Licenciatura en Comercialización\n*   **Institución:** Universidad de Morón (UM) — Morón, Buenos Aires\n*   **Nivel:** Grado\n*   **Modalidad:** A distancia (prácticas/exámenes presenciales por confirmar)\n*   **Tipo:** Privada\n*   **Descripción:** Estrategia comercial, comunicación, marketing, relaciones públicas y gestión de clientes.\n*   **Enlace:** https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia\n\n**Oferta 9:**\n*   **Título:** Tecnicatura Universitaria en Gerontología\n*   **Institución:** Universidad de Morón (UM) — Morón, Buenos Aires\n*   **Nivel:** Pregrado\n*   **Modalidad:** A distancia (prácticas/exámenes presenciales por confirmar)\n*   **Tipo:** Privada\n*   **Descripción:** Formación superior especializada en Gerontología.\n*   **Enlace:** https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia\n\n**Oferta 10:**\n*   **Título:** Licenciatura en Gerontología\n*   **Institución:** Universidad de Morón (UM) — Morón, Buenos Aires\n*   **Nivel:** Grado\n*   **Modalidad:** A distancia (prácticas/exámenes presenciales por confirmar)\n*   **Tipo:** Privada\n*   **Descripción:** Formación superior especializada en Gerontología.\n*   **Enlace:** https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia\n\n**Avisos y condiciones pendientes:**\n*   La modalidad de las carreras es \"A distancia (prácticas/exámenes presenciales por confirmar)\", lo que significa que no se puede garantizar la asistencia presencial ni el tipo exacto de prácticas sin verificar con la institución.\n*   No hay información sobre si son públicas o privadas en los datos, pero todas aparecen marcadas como **Privada**.\n*   No se pueden confirmar requisitos específicos (como exámenes presenciales obligatorios) ya que solo dice \"por confirmar\".\n*   Las fechas de inscripción y disponibilidad no están indicadas en los datos."
+  }
+}

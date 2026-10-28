@@ -1,0 +1,36 @@
+{
+  "resultado": true,
+  "pregunta": "dime donde puedo estudiar para ser abogado",
+  "mensaje": "ok",
+  "salida": {
+    "carrera": "Abogacía",
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": null,
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 9657,
+      "salida": 814,
+      "total": 10471,
+      "entrada_cache": 6845,
+      "razonamiento": null
+    },
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7869,
+        "salida": 33,
+        "total": 7902,
+        "entrada_cache": 6845,
+        "razonamiento": null
+      },
+      "respuesta_usuario": {
+        "entrada": 1788,
+        "salida": 781,
+        "total": 2569,
+        "entrada_cache": 0,
+        "razonamiento": null
+      }
+    },
+    "respuesta": "Para estudiar en Argentina como abogado, tienes varias opciones disponibles según la modalidad que prefieras (presencial o a distancia) y tu ubicación geográfica. Aquí te presento las ofertas recuperadas ordenadas por institución:\n\n1.  **Universidad de Morón (UM)**\n    *   **Ubicación:** Morón, Buenos Aires.\n    *   **Modalidad:** A distancia (prácticas y exámenes presenciales por confirmar).\n    *   **Enlace:** https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia\n\n2.  **Universidad de Palermo (UP)**\n    *   **Ubicación:** CABA, Argentina.\n    *   **Modalidad:** Online (prácticas y evaluaciones según carrera).\n    *   **Enlace:** https://www.palermo.edu/online/carreras.html\n\n3.  **Universidad de Ciencias Empresariales y Sociales (UCES)**\n    *   **Ubicación:** CABA, Argentina.\n    *   **Modalidad:** A distancia (evaluaciones según carrera).\n    *   **Enlace:** https://w.uces.edu.ar/wp-content/uploads/2026/04/PDF_INFORME_EJECUTIVO_AUTOEVALUACION_INSTITUCIONAL_29.04_002.pdf\n\n4.  **Universidad Siglo 21**\n    *   **Ubicación:** Córdoba (Córdoba / CAU en Argentina).\n    *   **Modalidad:** Distancia con instancias presenciales en CAU / híbrida.\n    *   **Enlace:** https://21.edu.ar/carreras-y-programas/distancia\n\n5.  **Universidad Argentina de la Empresa (UADE)**\n    *   **Ubicación:** CABA, Argentina.\n    *   **Modalidad:** Online (prácticas/exámenes según plan).\n    *   **Enlace:** https://www.uade.edu.ar/sites/uade-online/\n\n6.  **Universidad Católica de Salta (UCASAL)**\n    *   **Ubicación:** Salta, Salta.\n    *   **Modalidad:** A distancia / digital (algunas modalidades 100% online).\n    *   **Enlace:** https://www.ucasal.edu.ar/menu-oferta-educativa-por-modalidad/a-distancia\n\n7.  **Universidad FASTA (UFASTA)**\n    *   **Ubicación:** Mar del Plata, Buenos Aires.\n    *   **Modalidad:** Online asincrónica (prácticas/exámenes según carrera).\n    *   **Enlace:** https://www.ufasta.edu.ar/estudiar-online/\n\n8.  **Universidad Blas Pascal (UBP)**\n    *   **Ubicación:** Córdoba, Córdoba.\n    *   **Modalidad:** Online (instancias presenciales por confirmar).\n    *   **Enlace:** https://landing.ubp.edu.ar/grado-y-pregrado-online/\n\n**Nota importante sobre la modalidad:**\nAlgunas universidades como UCES y UFASTA publican su oferta a distancia, pero es crucial verificar si las prácticas o exámenes presenciales son obligatorios o solo por confirmar, ya que esto afecta tu disponibilidad. Además, para carreras como la de **Abogacía**, algunas instituciones pueden exigir concurrencia al CAU (Centro de Apoyo Universitario) en Córdoba para los parciales y finales, especialmente si optas por la modalidad híbrida o presencial.\n\nTe recomiendo revisar directamente las páginas web de cada universidad para confirmar los requisitos específicos de inscripción vigente, ya que la disponibilidad puede cambiar dinámicamente."
+  }
+}

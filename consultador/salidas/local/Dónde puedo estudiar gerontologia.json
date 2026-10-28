@@ -1,0 +1,46 @@
+[
+  {
+    "original": {
+      "Título": "Licenciatura en Gerontología",
+      "Lugar donde se cursa": "Universidad de Morón (UM) — Morón, Buenos Aires",
+      "Nivel": "Grado",
+      "Descripción": "Formación superior especializada en Gerontología.",
+      "Tipo de cursada": "A distancia (prácticas/exámenes presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Gerontología",
+      "Lugar donde se cursa": "Universidad de Morón (UM) — Morón, Buenos Aires",
+      "Nivel": "Pregrado",
+      "Descripción": "Formación superior especializada en Gerontología.",
+      "Tipo de cursada": "A distancia (prácticas/exámenes presenciales por confirmar)",
+      "Pública/Privada": "Privada",
+      "URL": "https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gerontología Social",
+      "Lugar donde se cursa": "Universidad Católica de Salta (UCASAL) — Salta, Salta",
+      "Nivel": "Grado",
+      "Descripción": "Formación superior especializada en Gerontología Social. La universidad distingue ofertas online y modalidades con evaluaciones según el programa.",
+      "Tipo de cursada": "A distancia / digital (algunas modalidades 100% online)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.ucasal.edu.ar/menu-oferta-educativa-por-modalidad/a-distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Gerontología",
+      "Lugar donde se cursa": "Universidad Católica de Santa Fe (UCSF) — Santa Fe, Santa Fe",
+      "Nivel": "Grado (CCC)",
+      "Descripción": "Ciclo de complementación: requiere titulación previa compatible. Formación superior especializada en Gerontología.",
+      "Tipo de cursada": "Online (sincrónica/asincrónica/mixta)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.ucsf.edu.ar/la-ucsf/sedes/on-line/"
+    }
+  }
+]

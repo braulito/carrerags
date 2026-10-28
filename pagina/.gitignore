@@ -1,0 +1,5 @@
+.venv/
+.pagina/
+__pycache__/
+*.py[cod]
+.pytest_cache/

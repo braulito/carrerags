@@ -1,0 +1,36 @@
+{
+  "resultado": true,
+  "pregunta": "dime donde puedo estudiar para ser docente",
+  "mensaje": "ok",
+  "salida": {
+    "carrera": "Profesorado",
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": null,
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 10066,
+      "salida": 773,
+      "total": 10839,
+      "entrada_cache": 6844,
+      "razonamiento": null
+    },
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7869,
+        "salida": 32,
+        "total": 7901,
+        "entrada_cache": 6844,
+        "razonamiento": null
+      },
+      "respuesta_usuario": {
+        "entrada": 2197,
+        "salida": 741,
+        "total": 2938,
+        "entrada_cache": 0,
+        "razonamiento": null
+      }
+    },
+    "respuesta": "Para estudiar y formar como docente, según las ofertas recuperadas, tienes varias opciones en diferentes niveles y modalidades:\n\n**1. Profesorado de Educación Superior en Historia (Privada)**\n*   **Institución:** Instituto de Profesorado CONSUDEC — Esmeralda 759, CABA.\n*   **Modalidad:** Híbrida (clases presenciales + virtuales).\n*   **Nivel:** Superior no universitario.\n*   **Aviso:** Incluye prácticas y residencia en el campus.\n\n**2. Profesorado para Profesionales (Privada)**\n*   **Institución:** Universidad Champagnat (UCH) — Godoy Cruz, Mendoza.\n*   **Modalidad:** A distancia.\n*   **Nivel:** Grado (ciclo para profesionales).\n*   **Aviso:** Se requiere título previo; las prácticas de campo se comprueban presencialmente.\n\n**3. Profesorado de Educación Secundaria en Historia y Lengua y Literatura (Privada)**\n*   **Institución:** CEDSa — Centro de Estudios a Distancia de Salta.\n*   **Modalidad:** A distancia.\n*   **Nivel:** Superior no universitario.\n*   **Aviso:** Se requiere título previo; las prácticas se comprueban según el plan y la jurisdicción.\n\n**4. Profesorado Universitario en Educación Inicial (Privada)**\n*   **Institución:** Universidad Champagnat (UCH) — Godoy Cruz, Mendoza.\n*   **Modalidad:** Híbrida (presencial intensiva 2-3 días + virtual).\n*   **Nivel:** Grado.\n*   **Duración:** Cuatro años.\n\n**5. Profesorado Universitario en Educación Primaria (Privada)**\n*   **Institución:** Universidad Champagnat (UCH) — Godoy Cruz, Mendoza.\n*   **Modalidad:** Híbrida (presencial intensiva 2-3 días + virtual).\n*   **Nivel:** Grado.\n*   **Duración:** Cuatro años.\n\n**6. Profesorado de Educación Secundaria en Historia (Privada)**\n*   **Institución:** Instituto Superior del Profesorado San Agustín — Francisco Acuña de Figueroa 1742, CABA.\n*   **Modalidad:** Híbrida (clases presenciales y virtuales sincrónicas).\n*   **Nivel:** Superior no universitario.\n\n**7. Profesorado Universitario (Privada)**\n*   **Institución:** Universidad del Este (UDE) — La Plata, Buenos Aires.\n*   **Modalidad:** 100% a distancia.\n*   **Nivel:** Grado (ciclo para graduados).\n*   **Aviso:** Reconocimiento oficial RM 897/24.\n\n**8. Ciclo de Profesorado Universitario para Profesionales (Privada)**\n*   **Institución:** Universidad Juan Agustín Maza — Mendoza.\n*   **Modalidad:** A distancia (asincrónica).\n*   **Nivel:** Grado (ciclo para profesionales).\n*   **Aviso:** Se requiere título previo; la práctica y residencia se comprueban según el catálogo educativo de Mendoza.\n\n**Condición pendiente:** No es posible confirmar si las prácticas o exámenes presenciales son obligatorios en todas estas opciones, ya que algunos indican \"comprobar presencialidad\" o \"según carrera\"."
+  }
+}

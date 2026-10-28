@@ -1,0 +1,36 @@
+{
+  "resultado": true,
+  "pregunta": "donde puedo estudiar sistemas",
+  "mensaje": "ok",
+  "salida": {
+    "carrera": "Sistemas",
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": null,
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 9800,
+      "salida": 1163,
+      "total": 10963,
+      "entrada_cache": 7876,
+      "razonamiento": 208
+    },
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7889,
+        "salida": 113,
+        "total": 8002,
+        "entrada_cache": 7876,
+        "razonamiento": 72
+      },
+      "respuesta_usuario": {
+        "entrada": 1911,
+        "salida": 1050,
+        "total": 2961,
+        "entrada_cache": 0,
+        "razonamiento": 136
+      }
+    },
+    "respuesta": "Estas son las ofertas recuperadas relacionadas con sistemas, informática y áreas afines:\n\n1. **Tecnicatura en Sistemas de Información Geográfica** — Universidad Nacional de Tres de Febrero (UNTREF Virtual), Caseros, Buenos Aires. **Pregrado, pública.** A distancia, con presencialidad puntual por confirmar. La descripción menciona análisis, diseño y desarrollo de software, sistemas y herramientas informáticas; verificá las condiciones particulares de ingreso y evaluación. [Oferta académica](https://untrefvirtual.edu.ar/oferta-academica)\n\n2. **Tecnicatura en Informática Aplicada a la Gráfica y Animación Digital** — Universidad Nacional del Litoral (UNL Virtual), Santa Fe, Santa Fe. **Pregrado, pública.** A distancia, con presencialidad puntual por confirmar. La descripción refiere al desarrollo de software, sistemas y herramientas informáticas; son tecnicaturas publicadas por la Facultad de Ingeniería y Ciencias Hídricas. [Oferta académica](https://www.fich.unl.edu.ar/estudios/categorias/pregado/)\n\n3. **Tecnicatura en Ciberseguridad** — Universidad Tecnológica Nacional (UTN), Regional Buenos Aires. **Pregrado, pública.** A distancia. Está orientada a la protección de sistemas, redes y datos y a la gestión de riesgos informáticos. Verificá si la cohorte está abierta, ya que algunas se anuncian como próximas. [Carreras](https://sceu.frba.utn.edu.ar/e-learning/listado?q=carreras)\n\n4. **Licenciatura en Inteligencia Artificial** — Universidad Blas Pascal (UBP), Córdoba, Córdoba. **Grado, privada.** Online, con instancias presenciales por confirmar. Formación en sistemas inteligentes, automatización y aplicaciones de IA. [Grado y pregrado online](https://landing.ubp.edu.ar/grado-y-pregrado-online/)\n\n5. **Licenciatura en Sistemas de Información Geográfica** — Universidad Nacional de Tres de Febrero (UNTREF Virtual), Caseros, Buenos Aires. **Grado, pública.** A distancia, con presencialidad puntual por confirmar. La descripción menciona análisis, diseño y desarrollo de software, sistemas y herramientas informáticas; verificá las condiciones particulares de ingreso y evaluación. [Oferta académica](https://untrefvirtual.edu.ar/oferta-academica)\n\n6. **Licenciatura en Administración de Sistemas y Empresas** — Universidad de Palermo (UP), CABA. **Grado, privada.** Online, con prácticas y evaluaciones según la carrera. Se enfoca en la gestión de organizaciones, procesos, personas y recursos empresariales o públicos. [Carreras online](https://www.palermo.edu/online/carreras.html)\n\n7. **Técnico Superior en Redes Informáticas** — Instituto Técnico Superior Teclab, CABA. **Superior no universitario, privado.** La cursada figura como 100 % online; el final es remoto o en una sede cercana. La descripción menciona software, sistemas y herramientas informáticas. [Información](https://teclab.edu.ar/faq/)\n\n8. **Tecnicatura Universitaria en Desarrollo de Software** — Universidad Argentina de la Empresa (UADE), CABA. **Pregrado, privada.** Online, con prácticas y exámenes según el plan. La descripción se refiere al desarrollo de software, sistemas y herramientas informáticas; consultá los requisitos de presencialidad. [UADE Online](https://www.uade.edu.ar/sites/uade-online/)\n\n9. **Licenciatura en Informática** — Universidad de Palermo (UP), CABA. **Grado, privada.** Online, con prácticas y evaluaciones según la carrera. Incluye análisis, diseño y desarrollo de software, sistemas y herramientas informáticas. [Carreras online](https://www.palermo.edu/online/carreras.html)\n\n10. **Licenciatura en Ciberseguridad** — Universidad de Palermo (UP), CABA. **Grado, privada.** Online, con prácticas y evaluaciones según la carrera. Se orienta a la protección de sistemas, redes y datos y a la gestión de riesgos informáticos. [Carreras online](https://www.palermo.edu/online/carreras.html)\n\nEn varias opciones, la presencialidad o las condiciones de cursada dependen de la carrera y están por confirmar."
+  }
+}

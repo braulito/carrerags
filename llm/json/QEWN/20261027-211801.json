@@ -1,0 +1,36 @@
+{
+  "resultado": true,
+  "pregunta": "donde estudiar para ser abogado?",
+  "mensaje": "ok",
+  "salida": {
+    "carrera": "Abogacía",
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": null,
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 9655,
+      "salida": 827,
+      "total": 10482,
+      "entrada_cache": 0,
+      "razonamiento": null
+    },
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7868,
+        "salida": 33,
+        "total": 7901,
+        "entrada_cache": 0,
+        "razonamiento": null
+      },
+      "respuesta_usuario": {
+        "entrada": 1787,
+        "salida": 794,
+        "total": 2581,
+        "entrada_cache": 0,
+        "razonamiento": null
+      }
+    },
+    "respuesta": "Para estudiar en Argentina y obtener la titulación de abogado, las opciones que encontré son:\n\n*   **Universidad de Morón (UM) — Morón, Buenos Aires**\n    *   **Nivel:** Grado\n    *   **Modalidad:** A distancia (prácticas/exámenes presenciales por confirmar).\n    *   **Tipo:** Privada.\n    *   **Enlace:** https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia\n\n*   **Universidad de Palermo (UP) — CABA, Argentina**\n    *   **Nivel:** Grado\n    *   **Modalidad:** Online (prácticas y evaluaciones según carrera).\n    *   **Tipo:** Privada.\n    *   **Enlace:** https://www.palermo.edu/online/carreras.html\n\n*   **Universidad de Ciencias Empresariales y Sociales (UCES) — CABA, Argentina**\n    *   **Nivel:** Grado\n    *   **Modalidad:** A distancia (evaluaciones según carrera).\n    *   **Tipo:** Privada.\n    *   **Enlace:** https://w.uces.edu.ar/wp-content/uploads/2026/04/PDF_INFORME_EJECUTIVO_AUTOEVALUACION_INSTITUCIONAL_29.04_002.pdf\n\n*   **Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina**\n    *   **Nivel:** Grado\n    *   **Modalidad:** Distancia con instancias presenciales en CAU / híbrida.\n    *   **Tipo:** Privada.\n    *   **Enlace:** https://21.edu.ar/carreras-y-programas/distancia\n\n*   **Universidad Argentina de la Empresa (UADE) — CABA, Argentina**\n    *   **Nivel:** Grado\n    *   **Modalidad:** Online (prácticas/exámenes según plan).\n    *   **Tipo:** Privada.\n    *   **Enlace:** https://www.uade.edu.ar/sites/uade-online/\n\n*   **Universidad Católica de Salta (UCASAL) — Salta, Salta**\n    *   **Nivel:** Grado\n    *   **Modalidad:** A distancia / digital (algunas modalidades 100% online).\n    *   **Tipo:** Privada.\n    *   **Enlace:** https://www.ucasal.edu.ar/menu-oferta-educativa-por-modalidad/a-distancia\n\n*   **Universidad FASTA (UFASTA) — Mar del Plata, Buenos Aires**\n    *   **Nivel:** Grado\n    *   **Modalidad:** Online asincrónica (prácticas/exámenes según carrera).\n    *   **Tipo:** Privada.\n    *   **Enlace:** https://www.ufasta.edu.ar/estudiar-online/\n\n*   **Universidad Blas Pascal (UBP) — Córdoba, Córdoba**\n    *   **Nivel:** Grado\n    *   **Modalidad:** Online (instancias presenciales por confirmar).\n    *   **Tipo:** Privada.\n    *   **Enlace:** https://landing.ubp.edu.ar/grado-y-pregrado-online/\n\n**Nota importante:** La Universidad de Morón menciona que los exámenes pueden ser presenciales, pero la modalidad general es a distancia. Las otras universidades publican principalmente modalidades online o híbridas con evaluaciones según carrera. No se puede confirmar si todas las opciones son públicas o privadas sin verificar cada caso individualmente, ya que algunas tienen requisitos específicos de presencia en salud o en el CAU (Universidad Siglo 21)."
+  }
+}

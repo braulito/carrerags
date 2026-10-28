@@ -1,0 +1,90 @@
+[
+  {
+    "original": {
+      "Título": "Licenciatura en Informática",
+      "Lugar donde se cursa": "Universidad Siglo 21 — Córdoba, Córdoba / CAU en Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas. Educación Distribuida Home exige concurrencia al CAU para parciales y finales; Educación Distribuida incluye encuentros presenciales.",
+      "Tipo de cursada": "Distancia con instancias presenciales en CAU / híbrida",
+      "Pública/Privada": "Privada",
+      "URL": "https://21.edu.ar/carreras-y-programas/distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Informática de Gestión",
+      "Lugar donde se cursa": "Universidad Nacional del Litoral (UNL Virtual) — Santa Fe, Santa Fe",
+      "Nivel": "Pregrado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas. Tecnicaturas publicadas por la Facultad de Ingeniería y Ciencias Hídricas.",
+      "Tipo de cursada": "A distancia (presencialidad puntual por confirmar)",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.fich.unl.edu.ar/estudios/categorias/pregado/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Técnico Superior en Seguridad Informática",
+      "Lugar donde se cursa": "Instituto Técnico Superior Teclab — CABA, Argentina",
+      "Nivel": "Superior no universitario",
+      "Descripción": "Protección de sistemas, redes, datos y gestión de riesgos informáticos.",
+      "Tipo de cursada": "100% online (final remoto o sede cercana)",
+      "Pública/Privada": "Privada",
+      "URL": "https://teclab.edu.ar/faq/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Seguridad Informática",
+      "Lugar donde se cursa": "Universidad Católica de Salta (UCASAL) — Salta, Salta",
+      "Nivel": "Pregrado",
+      "Descripción": "Protección de sistemas, redes, datos y gestión de riesgos informáticos. La universidad distingue ofertas online y modalidades con evaluaciones según el programa.",
+      "Tipo de cursada": "A distancia / digital (algunas modalidades 100% online)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.ucasal.edu.ar/menu-oferta-educativa-por-modalidad/a-distancia"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Informática Aplicada a la Gráfica y Animación Digital",
+      "Lugar donde se cursa": "Universidad Nacional del Litoral (UNL Virtual) — Santa Fe, Santa Fe",
+      "Nivel": "Pregrado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas. Tecnicaturas publicadas por la Facultad de Ingeniería y Ciencias Hídricas.",
+      "Tipo de cursada": "A distancia (presencialidad puntual por confirmar)",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.fich.unl.edu.ar/estudios/categorias/pregado/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Informática Aplicada al Diseño Multimedia y de Sitios Web",
+      "Lugar donde se cursa": "Universidad Nacional del Litoral (UNL Virtual) — Santa Fe, Santa Fe",
+      "Nivel": "Pregrado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas. Tecnicaturas publicadas por la Facultad de Ingeniería y Ciencias Hídricas.",
+      "Tipo de cursada": "A distancia (presencialidad puntual por confirmar)",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.fich.unl.edu.ar/estudios/categorias/pregado/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ingeniería en Informática",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Informática",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  }
+]

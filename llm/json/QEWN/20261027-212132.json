@@ -1,0 +1,36 @@
+{
+  "resultado": true,
+  "pregunta": "donde puedo estudiar sistemas",
+  "mensaje": "ok",
+  "salida": {
+    "carrera": "Sistemas de Información",
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": null,
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 8979,
+      "salida": 208,
+      "total": 9187,
+      "entrada_cache": 6845,
+      "razonamiento": null
+    },
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7867,
+        "salida": 33,
+        "total": 7900,
+        "entrada_cache": 6845,
+        "razonamiento": null
+      },
+      "respuesta_usuario": {
+        "entrada": 1112,
+        "salida": 175,
+        "total": 1287,
+        "entrada_cache": 0,
+        "razonamiento": null
+      }
+    },
+    "respuesta": "Para estudiar Sistemas, según las ofertas recuperadas, tienes tres opciones principales:\n\n1.  **Licenciatura en Sistemas de Información** en la Universidad Nacional de Tres de Febrero (UNTREF Virtual), ubicada en Caseros, Buenos Aires. Es pública y se cursa a distancia con presencialidad puntual por confirmar.\n2.  **Licenciatura en Sistemas** en la Universidad Blas Pascal (UBP), ubicada en Córdoba. Es privada y tiene modalidad online con instancias presenciales por confirmar.\n3.  **Tecnicatura en Sistemas de Información Geográfica** también en la UNTREF Virtual, en Caseros, Buenos Aires. Es pública y se cursa a distancia con presencialidad puntual por confirmar.\n\nTodas las opciones mencionan análisis, diseño y desarrollo de software y sistemas informáticos como parte de su currículo."
+  }
+}

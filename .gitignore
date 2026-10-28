@@ -1,0 +1,21 @@
+
+# Ejemplos
+ejemplos/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Archivos de entorno y credenciales
+.env
+.env.*
+*.env
+*.env.*
+
+# Estado y artefactos de ingesta
+ingesta/.state/
+ingesta/.artifacts/
+ingesta/.ingestador/
+
+# Estado de pagina
+pagina/.pagina/

@@ -1,0 +1,36 @@
+{
+  "resultado": true,
+  "pregunta": "dime donde puedo estudiar para ser abogado",
+  "mensaje": "ok",
+  "salida": {
+    "carrera": "Abogacía",
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": null,
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 9586,
+      "salida": 918,
+      "total": 10504,
+      "entrada_cache": 9554,
+      "razonamiento": 146
+    },
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7892,
+        "salida": 91,
+        "total": 7983,
+        "entrada_cache": 7876,
+        "razonamiento": 48
+      },
+      "respuesta_usuario": {
+        "entrada": 1694,
+        "salida": 827,
+        "total": 2521,
+        "entrada_cache": 1678,
+        "razonamiento": 98
+      }
+    },
+    "respuesta": "Podés estudiar **Abogacía** en estas ofertas de grado, todas de instituciones privadas:\n\n1. **Universidad de Morón (UM)** — Morón, Buenos Aires. Formación jurídica y en procedimientos legales, con posible orientación a la actividad notarial e inmobiliaria. **A distancia**; las prácticas y los exámenes presenciales están por confirmar. [Ver oferta](https://venialaum.unimoron.edu.ar/carreras/de-grado-y-pregrado/distancia)\n\n2. **Universidad de Palermo (UP)** — CABA. Formación jurídica y en procedimientos legales, con posible orientación a la actividad notarial e inmobiliaria. **Online**; las prácticas y evaluaciones dependen de la carrera. [Ver oferta](https://www.palermo.edu/online/carreras.html)\n\n3. **Universidad de Ciencias Empresariales y Sociales (UCES)** — CABA. Formación jurídica y en procedimientos legales, con posible orientación a la actividad notarial e inmobiliaria. **A distancia**; las evaluaciones dependen de la carrera. La oferta aparece identificada en un informe de autoevaluación institucional de 2026; la inscripción vigente no está confirmada. [Ver información](https://w.uces.edu.ar/wp-content/uploads/2026/04/PDF_INFORME_EJECUTIVO_AUTOEVALUACION_INSTITUCIONAL_29.04_002.pdf)\n\n4. **Universidad Siglo 21** — Córdoba, Córdoba, con CAU en Argentina. Formación jurídica y en procedimientos legales, con posible orientación a la actividad notarial e inmobiliaria. **A distancia o híbrida**, según la modalidad: Educación Distribuida Home requiere concurrir al CAU para parciales y finales, y Educación Distribuida incluye encuentros presenciales. [Ver oferta](https://21.edu.ar/carreras-y-programas/distancia)\n\n5. **Universidad Argentina de la Empresa (UADE)** — CABA. Formación jurídica y en procedimientos legales, con posible orientación a la actividad notarial e inmobiliaria. **Online**; las prácticas y los exámenes dependen del plan. [Ver oferta](https://www.uade.edu.ar/sites/uade-online/)\n\n6. **Universidad Católica de Salta (UCASAL)** — Salta, Salta. Formación jurídica y en procedimientos legales, con posible orientación a la actividad notarial e inmobiliaria. **A distancia o digital**; la universidad distingue ofertas online y modalidades con evaluaciones según el programa, y algunas modalidades son 100 % online. No se precisa cuál corresponde a Abogacía. [Ver oferta](https://www.ucasal.edu.ar/menu-oferta-educativa-por-modalidad/a-distancia)\n\n7. **Universidad FASTA (UFASTA)** — Mar del Plata, Buenos Aires. Formación jurídica y en procedimientos legales, con posible orientación a la actividad notarial e inmobiliaria. **Online asincrónica**; las prácticas y los exámenes dependen de la carrera. [Ver oferta](https://www.ufasta.edu.ar/estudiar-online/)\n\n8. **Universidad Blas Pascal (UBP)** — Córdoba, Córdoba. Formación jurídica y en procedimientos legales, con posible orientación a la actividad notarial e inmobiliaria. **Online**; las instancias presenciales están por confirmar. [Ver oferta](https://landing.ubp.edu.ar/grado-y-pregrado-online/)\n\nLas condiciones de presencialidad varían: en varias ofertas no están detalladas o quedan por confirmar."
+  }
+}

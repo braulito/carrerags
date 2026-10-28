@@ -1,0 +1,145 @@
+[
+  {
+    "original": {
+      "Título": "Ingeniería Industrial",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Formación superior especializada en Industrial.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ingeniería Electrónica",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Formación superior especializada en Electrónica.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ingeniería en Informática",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ingeniería en Telecomunicaciones",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Diseño, gestión y soporte de redes, telecomunicaciones e infraestructura digital.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Informática Aplicada a la Gráfica y Animación Digital",
+      "Lugar donde se cursa": "Universidad Nacional del Litoral (UNL Virtual) — Santa Fe, Santa Fe",
+      "Nivel": "Pregrado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas. Tecnicaturas publicadas por la Facultad de Ingeniería y Ciencias Hídricas.",
+      "Tipo de cursada": "A distancia (presencialidad puntual por confirmar)",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.fich.unl.edu.ar/estudios/categorias/pregado/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ingeniería en Inteligencia Artificial",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Formación en sistemas inteligentes, automatización y aplicaciones de IA.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Informática de Gestión",
+      "Lugar donde se cursa": "Universidad Nacional del Litoral (UNL Virtual) — Santa Fe, Santa Fe",
+      "Nivel": "Pregrado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas. Tecnicaturas publicadas por la Facultad de Ingeniería y Ciencias Hídricas.",
+      "Tipo de cursada": "A distancia (presencialidad puntual por confirmar)",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.fich.unl.edu.ar/estudios/categorias/pregado/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Software Libre",
+      "Lugar donde se cursa": "Universidad Nacional del Litoral (UNL Virtual) — Santa Fe, Santa Fe",
+      "Nivel": "Pregrado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas. Tecnicaturas publicadas por la Facultad de Ingeniería y Ciencias Hídricas.",
+      "Tipo de cursada": "A distancia (presencialidad puntual por confirmar)",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.fich.unl.edu.ar/estudios/categorias/pregado/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Ingeniería en Ciencia de Datos",
+      "Lugar donde se cursa": "Universidad de Palermo (UP) — CABA, Argentina",
+      "Nivel": "Grado",
+      "Descripción": "Análisis de datos, estadística y herramientas computacionales aplicadas a decisiones.",
+      "Tipo de cursada": "Online (prácticas y evaluaciones según carrera)",
+      "Pública/Privada": "Privada",
+      "URL": "https://www.palermo.edu/online/carreras.html"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Informática Aplicada al Diseño Multimedia y de Sitios Web",
+      "Lugar donde se cursa": "Universidad Nacional del Litoral (UNL Virtual) — Santa Fe, Santa Fe",
+      "Nivel": "Pregrado",
+      "Descripción": "Análisis, diseño y desarrollo de software, sistemas y herramientas informáticas. Tecnicaturas publicadas por la Facultad de Ingeniería y Ciencias Hídricas.",
+      "Tipo de cursada": "A distancia (presencialidad puntual por confirmar)",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.fich.unl.edu.ar/estudios/categorias/pregado/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura Universitaria en Administración Agraria (título intermedio)",
+      "Lugar donde se cursa": "Universidad Nacional Arturo Jauretche (UNAJ) — Florencio Varela, Buenos Aires",
+      "Nivel": "Pregrado",
+      "Descripción": "Título intermedio a los tres años de la Licenciatura en Administración Agraria, según su plan a distancia.",
+      "Tipo de cursada": "A distancia, como parte de la carrera que otorga título intermedio.",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unaj.edu.ar/carreras/ingenieria-y-agronomia/licenciatura-en-administracion-agraria-modalidad-a-distancia/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Licenciatura en Administración Agraria",
+      "Lugar donde se cursa": "Universidad Nacional Arturo Jauretche (UNAJ) — Florencio Varela, Buenos Aires",
+      "Nivel": "Grado",
+      "Descripción": "Gestión de organizaciones, procesos, personas y recursos empresariales o públicos.",
+      "Tipo de cursada": "A distancia (plan completo de carrera); evaluar instancias prácticas del plan",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.unaj.edu.ar/carreras/ingenieria-y-agronomia/licenciatura-en-administracion-agraria-modalidad-a-distancia/"
+    }
+  },
+  {
+    "original": {
+      "Título": "Tecnicatura en Diseño y Programación de Videojuegos",
+      "Lugar donde se cursa": "Universidad Nacional del Litoral (UNL Virtual) — Santa Fe, Santa Fe",
+      "Nivel": "Pregrado",
+      "Descripción": "Diseño, programación, producción y desarrollo de videojuegos y experiencias interactivas. Tecnicaturas publicadas por la Facultad de Ingeniería y Ciencias Hídricas.",
+      "Tipo de cursada": "A distancia (presencialidad puntual por confirmar)",
+      "Pública/Privada": "Pública",
+      "URL": "https://www.fich.unl.edu.ar/estudios/categorias/pregado/"
+    }
+  }
+]

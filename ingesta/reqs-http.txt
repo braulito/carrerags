@@ -1,0 +1,2 @@
+# Cliente HTTP: no requiere Sentence Transformers ni PyTorch.
+python-dotenv==1.1.1

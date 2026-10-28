@@ -1,0 +1,29 @@
+{
+  "resultado": false,
+  "pregunta": "dime la hora",
+  "mensaje": "No se identificaron criterios de búsqueda en la pregunta",
+  "salida": {
+    "carrera": null,
+    "nivel_educativo": null,
+    "institucion": null,
+    "ubicacion": null,
+    "modalidad": null,
+    "consumo_tokens": {
+      "entrada": 7888,
+      "salida": 82,
+      "total": 7970,
+      "entrada_cache": 7876,
+      "razonamiento": 42
+    },
+    "http_status": 404,
+    "consumos_llm": {
+      "normalizacion": {
+        "entrada": 7888,
+        "salida": 82,
+        "total": 7970,
+        "entrada_cache": 7876,
+        "razonamiento": 42
+      }
+    }
+  }
+}

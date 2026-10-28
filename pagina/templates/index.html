@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explorá carreras y ofertas educativas de Argentina con CarreRAGs.">
+  <title>CarreRAGs · Encontrá tu próximo paso</title>
+  <link rel="icon" href="{{ url_for('static', filename='favicon.svg') }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <script type="module" src="{{ url_for('static', filename='chat.mjs') }}"></script>
+</head>
+<body data-timeout-ms="{{ client_timeout_ms }}">
+  <svg class="svg-definitions" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <symbol id="icon-brand" viewBox="0 0 32 32"><path d="M16 25V13M16 18C7 18 5 13 5 7c7 0 11 3 11 11Zm0-4C16 7 20 4 27 4c0 7-4 10-11 10Z" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/><path d="M10 27h12" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round"/></symbol>
+    <symbol id="icon-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+    <symbol id="icon-arrow" viewBox="0 0 24 24"><path d="M12 19V5m-6 6 6-6 6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="icon-chevron" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="icon-book" viewBox="0 0 24 24"><path d="M12 6c-3-2-6-2-9-1v14c3-1 6-1 9 1m0-14c3-2 6-2 9-1v14c-3-1-6-1-9 1V6Z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></symbol>
+    <symbol id="icon-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="2" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M16 8V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h3" fill="none" stroke="currentColor" stroke-width="1.5"/></symbol>
+    <symbol id="icon-globe" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M3 12h18M12 3c5 5 5 13 0 18-5-5-5-13 0-18Z" fill="none" stroke="currentColor" stroke-width="1.5"/></symbol>
+  </svg>
+
+  <aside class="sidebar">
+    <a class="brand" href="/" aria-label="CarreRAGs, inicio">
+      <span class="brand-mark"><svg><use href="#icon-brand"></use></svg></span>
+      <span>Carre<span class="brand-light">RAGs</span></span>
+    </a>
+    <button class="new-query" id="new-query" type="button"><svg><use href="#icon-plus"></use></svg>Nueva consulta</button>
+
+    <div class="sidebar-section">
+      <p class="eyebrow">EN ESTA SESIÓN</p>
+      <p class="history-empty" id="history-empty">Tus consultas aparecerán acá.</p>
+      <nav id="history" class="history" aria-label="Consultas de esta sesión"></nav>
+    </div>
+
+    <div class="sidebar-footer">
+      <div class="sidebar-note"><svg><use href="#icon-book"></use></svg><div><strong>Un lugar para empezar</strong><p>Explorá opciones y encontrá información para dar tu próximo paso.</p></div></div>
+      <div class="sidebar-bottom"><span class="small-brand">CarreRAGs</span><span>Orientación educativa</span></div>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar"><span class="page-label">Tu próximo paso</span><span class="catalog-badge"><svg><use href="#icon-globe"></use></svg>Ofertas de Argentina</span></header>
+
+    <div class="scroll-area" id="scroll-area">
+      <section class="welcome" id="welcome">
+        <div class="welcome-mark"><svg><use href="#icon-brand"></use></svg></div>
+        <p class="welcome-kicker">HAY UN CAMINO PARA VOS</p>
+        <h1>¿Qué te gustaría estudiar?</h1>
+        <p class="welcome-description">Contame qué te interesa. Te ayudo a explorar carreras,<br>instituciones y formas de estudiar en Argentina.</p>
+
+        <div class="suggestions">
+          <button class="suggestion" type="button" data-question="Quiero estudiar programación a distancia">
+            <span class="suggestion-icon code-icon">&lt;/&gt;</span><strong>Algo que me apasiona</strong><span>Quiero estudiar programación<br>a distancia</span><svg class="suggestion-arrow"><use href="#icon-chevron"></use></svg>
+          </button>
+          <button class="suggestion" type="button" data-question="¿Dónde puedo estudiar Enfermería en Córdoba?">
+            <span class="suggestion-icon place-icon"><svg><use href="#icon-globe"></use></svg></span><strong>Cerca de donde estoy</strong><span>¿Dónde puedo estudiar<br>Enfermería en Córdoba?</span><svg class="suggestion-arrow"><use href="#icon-chevron"></use></svg>
+          </button>
+          <button class="suggestion" type="button" data-question="¿Qué tecnicaturas en turismo puedo estudiar?">
+            <span class="suggestion-icon study-icon"><svg><use href="#icon-book"></use></svg></span><strong>Una nueva posibilidad</strong><span>¿Qué tecnicaturas en turismo<br>puedo estudiar?</span><svg class="suggestion-arrow"><use href="#icon-chevron"></use></svg>
+          </button>
+        </div>
+        <p class="suggestions-hint">Elegí un ejemplo o escribí tu propia pregunta abajo.</p>
+      </section>
+      <section class="conversation" id="conversation" aria-label="Consultas y respuestas"></section>
+    </div>
+
+    <div class="composer-area">
+      <form class="composer" id="query-form">
+        <label class="visually-hidden" for="question">Tu pregunta sobre qué estudiar</label>
+        <textarea id="question" name="pregunta" rows="2" maxlength="{{ max_question_length }}" placeholder="Por ejemplo: quiero estudiar diseño a distancia…" aria-describedby="question-hint" required></textarea>
+        <div class="composer-bottom"><span id="composer-status" class="composer-status">Tu curiosidad es un buen comienzo.</span><button class="send-button" id="send-button" type="submit" aria-label="Enviar consulta" title="Enviar consulta (Enter)"><svg><use href="#icon-arrow"></use></svg></button></div>
+      </form>
+      <p class="field-error" id="field-error" role="alert"></p>
+      <p class="composer-footnote" id="question-hint">Enter para enviar · Shift+Enter para un salto de línea. Cada consulta es independiente. Confirmá los detalles en los sitios de las instituciones.</p>
+    </div>
+  </main>
+
+  <dialog id="error-dialog" class="error-dialog">
+    <div class="dialog-icon">!</div>
+    <h2>No pudimos completar la consulta</h2>
+    <p id="error-message"></p>
+    <p class="dialog-hint">Tu pregunta sigue disponible para volver a intentar.</p>
+    <button id="close-dialog" class="primary-button" type="button">Entendido</button>
+  </dialog>
+
+  <template id="exchange-template">
+    <article class="exchange">
+      <div class="user-message"><p></p></div>
+      <div class="assistant-message"><span class="assistant-avatar"><svg><use href="#icon-brand"></use></svg></span><div class="assistant-content"><span class="assistant-name">CarreRAGs</span><div class="answer-content"></div><div class="answer-actions"></div></div></div>
+    </article>
+  </template>
+  <noscript><div class="noscript">Activá JavaScript para consultar CarreRAGs.</div></noscript>
+</body>
+</html>
